@@ -3,7 +3,7 @@ title: "Analysis of the body of literature based on a new drama therapy literatu
 collection: publications
 category: manuscripts
 permalink: /publication/2023-02-01-bibliometric-analysis
-excerpt: 'A bibliometric analysis on studies in dramatherapy from 2000 to 2021'
+excerpt: '**T. Constien** & J. Junker'
 date: 2023-02-01
 venue: 'The Arts in Psychotherapy'
 paperurl: 'https://tobicn.github.io/TobiasConstien/files/2023-02-01-bibliometric-analysis.pdf'
