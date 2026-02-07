@@ -24,13 +24,13 @@ repository               : "tobicn/TobiasConstien.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Tobias Constie"
+  pronouns         : "he/him"  
+  bio              : "PhD Candidate"
+  location         : "Dublin, Ireland"
+  employer         : "University College Dublin"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tobias.constien@ucdconnect.ie" 
 
   # Academic websites
   academia         : # URL
