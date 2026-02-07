@@ -6,8 +6,8 @@ permalink: /publication/2024-07-25-open-dramatherapy
 excerpt: '**T. Constien**'
 date: 2024-07-25
 venue: 'Dramatherapy'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://tobicn.github.io/TobiasConstien/files/2024-07-25-open-dramatherapy.pdf'
+bibtexurl: 'https://tobicn.github.io/TobiasConstien/files/2024-07-25-open-dramatherapy.ris'
 citation: '**Constien, T.** (2024). Open dramatherapy: Embracing Open Science in the further development of our field. Dramatherapy, 44(1), 125–135. https://doi.org/10.1386/dj_00009_1 
 '
 ---
