@@ -4,6 +4,8 @@ date: 2026-02-08
 permalink: /posts/2026/02/blog-credit/
 tags:
   - academic-gadgets
+  - CRediT
+  - publishing
 ---
 
 Adding a CRediT statement to a manuscript can be one of the most satisfying experiences in the publication process. But it also, most often, comes at a time where you are done thinking. [I made a tool](https://tobicn.github.io/credit-author-tool/) to take thinking out of the process while still making sure that CRediT goes where CRediT is due.
