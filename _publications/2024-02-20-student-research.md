@@ -8,7 +8,7 @@ date: 2024-02-20
 venue: 'GMS Journal of Arts Therapies'
 paperurl: 'https://tobicn.github.io/TobiasConstien/files/2024-02-20-student-research.pdf'
 bibtexurl: 'https://tobicn.github.io/TobiasConstien/files/2024-02-20-student-research.ris'
-citation: 'Cook, A., <b>Constien, T.</b>, Glick, S. T., Aachen, A., Dominiski, M., & Holkesvig, A. (2024). Drama therapy student research in North America: A narrative review. *GMS Journal of Arts Therapies*, 6, Article 2. https://doi.org/10.3205/jat000035 
+citation: 'Cook, A., <b>Constien, T.</b>, Glick, S. T., Aachen, A., Dominiski, M., & Holkesvig, A. (2024). Drama therapy student research in North America: A narrative review. <i>GMS Journal of Arts Therapies</i>, 6, Article 2. https://doi.org/10.3205/jat000035 
 '
 ---
 
