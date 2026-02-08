@@ -8,7 +8,7 @@ date: 2024-07-25
 venue: 'Dramatherapy'
 paperurl: 'https://tobicn.github.io/TobiasConstien/files/2024-07-25-open-dramatherapy.pdf'
 bibtexurl: 'https://tobicn.github.io/TobiasConstien/files/2024-07-25-open-dramatherapy.ris'
-citation: '<b>Constien, T.</b> (2024). Open dramatherapy: Embracing Open Science in the further development of our field. Dramatherapy, 44(1), 125–135. https://doi.org/10.1386/dj_00009_1 
+citation: '<b>Constien, T.</b> (2024). Open dramatherapy: Embracing Open Science in the further development of our field. <i>Dramatherapy</i>, 44(1), 125–135. https://doi.org/10.1386/dj_00009_1 
 '
 ---
 
