@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Tobias Constien"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,35 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* <i>Ph.D in Psychology, University College Dublin, 2027 (expected)</i>
+* M.Psych Sc., University College Dublin, 2024
+* H. Dip. (Psychology), Trinity College Dublin, 2023
+* B. A. (Dramatherapy), Nürtingen-Geislingen University, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* <b>Teaching Assistant & Occasional Lecturer</b> - since Sept' 2023
+  * School of Psychology, University College Dublin
+  * Lectures in Intro to Psychology, and Child Development. Seminars and tutorials on statistics and research methods.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* <b>Research Assistant & Occasional Lecturer</b> - 2021-2024
+  * Institute for Research and Development in the Arts Therapies, Nürtingen-Geislingen University
+  * Research on the literature in the field of dramatherapy. Seminars in research methods in dramatherapy.
+  * Supervisor: Johannes Junker
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* <b>Research Assistant</b> - Sept' 2023 - Aug' 2024 
+  * European Association of Palliative Care
+  * Evaluation of research dissemination activities in EU-funded palliative care research projects.
+  * Supervisor: Prof. Suzanne Guerin & Dr. Cathy Payne
+
+* <b>Research Assistant</b> - June - Sept' 2023
+  * Infant and Child Research Laboratory, Trinity College Dublin
+  * Assisted in observational coding of various child and parent behaviors.
+  * Supervisor: Dr. Jean Quigley and Dr. Elizabeth Nixon
 
 Publications
 ======
@@ -52,13 +48,21 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+
+Honors & Awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* <b>Best Lightening Talk</b>
+  * December 2024
+  * Children’s Research Network (Ireland)
+* <b>Graduates’ Prize in Psychology</b>
+  * June 2023
+  * Trinity College Dublin
+* <b>Young Arts Therapies Research Award</b>
+  * October 2021
+  * Scientific Association for the Creative Arts Therapies (WFKT)
+* <b>Scholarship</b>
+  * January 2020
+  * German Academic Scholarship Foundation
+* <b>Deutschlandstipendium</b>
+  * September 2019
+  * Nürtingen-Geislingen University 
