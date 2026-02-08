@@ -1,13 +1,13 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
-  ],
-  [
     "Let's Play: Toddlers' Pretend Play and Executive Functions<br />Lancaster International Conference on Infant and Early Child Development; Lancaster, UK",
     54.0488219,
     -2.8013499
+  ],
+  [
+    "Toddlers\u2019 Executive Development and Pretend Play - A Protocol Poster<br />Annual Psychology Conference - Psychological Society Ireland; Athlone, Ireland",
+    53.4228434,
+    -7.9425897
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
