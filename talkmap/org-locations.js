@@ -15,8 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Qualitative Meta-Analysis of Client Experiences of Dramatherapy<br />6<sup>th</sup> Annual Conference of the Scientific Association of Creative Arts Therapies e.V.; HKS Ottersberg, Germany",
+    53.1069035,
+    9.1634678
   ]
 ];
