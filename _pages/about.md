@@ -18,10 +18,10 @@ Current Projects
 
 One of the wonderful <i>(and sometimes horrible)</i> things about working in and around academia, is that you always have a number of projects ongoing at the same time. This is a snippet of my to-do list right now:
 
-- <b>[TEDDY Project](https://www.ucdbabylab.com/teddy-project):<b/> My wonderful, fun PhD Project on toddlers' play and executive functions.
-- <b>[SCOOT Study](https://osf.io/a5473/overview):<b/> The SCOOT study looks at toddlers' sleep, screen-time, and play in Ireland.
-- <b>[EFD Case Study Project](https://osf.io/p4tzc/overview):<b/> A collaborative pilot from the European Federation of Dramatherapy and the Dramatherapy Journal.
-- <b>[Adults Play Too!](https://osf.io/wcdga/overview):<b/> A systematic review mapping quantitative measures of adult playfulness.
+- <b>[TEDDY Project](https://www.ucdbabylab.com/teddy-project):</b> My wonderful, fun PhD Project on toddlers' play and executive functions.
+- <b>[SCOOT Study](https://osf.io/a5473/overview):</b> The SCOOT study looks at toddlers' sleep, screen-time, and play in Ireland.
+- <b>[EFD Case Study Project](https://osf.io/p4tzc/overview):</b> A collaborative pilot from the European Federation of Dramatherapy and the Dramatherapy Journal.
+- <b>[Adults Play Too!](https://osf.io/wcdga/overview):</b> A systematic review mapping quantitative measures of adult playfulness.
 
 
 For more info
