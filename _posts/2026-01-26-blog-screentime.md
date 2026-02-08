@@ -1,6 +1,6 @@
 ---
 title: 'Letter to the Editor: Young Children and Screen Time'
-date: 2026-02-08
+date: 2026-01-26
 permalink: /posts/2026/02/blog-screentime/
 tags:
   - screen-time
