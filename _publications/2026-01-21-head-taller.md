@@ -1,0 +1,13 @@
+---
+title: "A head taller: A meta-analysis on the relation between pretend play and executive functions in early childhood"
+collection: publications
+category: manuscripts
+permalink: /publication/2026-01-21-head-taller
+excerpt: '<b>T. Constien</b>, S. Moran, B. Rooney, M. Downes'
+date: 2026-01-21
+venue: 'Developmental Review'
+paperurl: 'https://tobicn.github.io/TobiasConstien/files/2026-01-21-head-taller.pdf'
+bibtexurl: 'https://tobicn.github.io/TobiasConstien/files/2026-01-21-head-taller.ris'
+citation: '<b>Constien, T.</b>, Moran, S., Rooney, B., & Downes, M. (2026). A head taller: A meta-analysis on the relation between pretend play and executive functions in early childhood. <i>Developmental Review</i>, 79, 101249. https://doi.org/10.1016/j.dr.2026.101249'
+---
+Executive functions emerge gradually in early childhood and are predictive of a range of developmental outcomes. Pretend play, a type of play that is imaginative and creative, has been posited to benefit children’s early development of executive functions. Yet, previous studies on the relation between pretend play and executive functions have not consistently evidenced a clear connection. This study aimed to quantitatively assess the relation between pretend play and executive functions in early childhood via a systematic review and meta-analysis for the first time. A pre-registered, systematic literature search was conducted across five databases (i.e., ERIC, ProQuest Dissertation and Theses Index, PsycInfo, Scopus, Web of Science). The screening process identified 26 studies, which reported on 2,915 children, aged 12–72 months. A three-level, random effects meta-analysis across 131 correlational effect sizes identified a significant, small effect between executive functions and pretend play, <i>r</i> = 0.17, 95 % CI [.13, 0.20], SE = 0.02, <i>t</i>(130) = 9.93, <i>p</i> < 0.001, albeit with significant heterogeneity within the cumulative effect. No evidence of publication bias was identified. Effect sizes were significantly larger for studies measuring executive functions via a questionnaire compared to performance-based tasks. Other considered variables (i.e. social aspects of pretend play measures, age, socioeconomic status, study design) did not, on their own, affect the observed relation between pretend play and executive functioning in early childhood. While these results do not evidence causality, they invite further research building on the identified, extant literature. The implications of the results are discussed in terms of the direction and the potential mechanisms for the identified relation between pretend play and executive functions.
