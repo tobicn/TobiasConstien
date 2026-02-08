@@ -2,7 +2,7 @@
 title: "Toddlers’ Executive Development and Pretend Play - A Protocol Poster"
 collection: talks
 type: "talk"
-permalink: /talks/2024-11-15-talk-3
+permalink: /talks/2024-11-15-protocol-poster
 venue: "Annual Psychology Conference - Psychological Society Ireland"
 date: 2024-11-15
 location: "Athlone, Ireland"
