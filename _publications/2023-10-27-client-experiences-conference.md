@@ -6,7 +6,7 @@ permalink: /publication/2023-10-27-client-experiences-conference
 excerpt: '<b>T. Constien</b>, A. Khanna & A. Wiberg'
 date: 2023-10-27
 venue: '6<sup>th</sup> Annual Conference of the Scientific Association of Creative Arts Therapies e.V.'
-posterurl: 'https://osf.io/gqphk/files/9cxtd'
+slidesurl: 'https://osf.io/gqphk/files/9cxtd'
 citation: '<b>Constien, T.</b>, Khanna, A., & Wiberg, A. (2023, 27.10.2023). <i>Poster Presentation on a systematic review and qualitative meta-analysis of clients’ experiences of dramatherapy</i>. 6<sup>th</sup>Annual Conference of the Scientific Association of the Creative Arts Therapies (WFKT), Ottersberg, Germany. https://dx.doi.org/10.3205/23wfkt01.'
 ---
 
