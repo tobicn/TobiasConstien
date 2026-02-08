@@ -11,8 +11,6 @@ Hi there! Welcome to my academic portfolio. I am <b>Tobias Constien</b> – but 
 
 I’m broadly interested in the psychological mechanisms and functions of play, whether it’s in development, therapy, or simply how I can win against my wife in board games. In my PhD, for example, I am exploring the role of pretend play in toddlers' development of executive functions. In my work in dramatherapy, I'm looking at play from a clinical perspective. Still, board games against my wife I usually loose.
 
-I’m trying my best to conduct my research following principles of <b>Open Science</b>. Although I haven’t always been able to publish open-access, materials and pre-prints from all my work is openly available via my [OSF Page](https://osf.io/hwqnx/). You can also download my papers (or pre-prints) via this [page](https://tobicn.github.io/TobiasConstien/publications/).
-
 Current Projects
 ======
 
