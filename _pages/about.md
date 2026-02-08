@@ -9,7 +9,7 @@ redirect_from:
 
 Hi there! Welcome to my academic portfolio. I am <b>Tobias Constien</b> – but you should feel free to just call me Tobi! I am currently a PhD Candidate at the [UCD Babylab](https://www.ucdbabylab.com) in the School of Psychology at the University College Dublin. I’m being supervised by [Dr. Michelle Downes](https://people.ucd.ie/michelle.downes).
 
-I’m broadly interested in the psychological mechanisms and functions of play, whether it’s in development, therapy, or simply how I can win against my wife in board games. In my PhD, for example, I am exploring the role of pretend play in toddlers' development of executive functions. In my work in dramatherapy, I'm looking at play from a clinical perspective. Still, board games against my wife I usually loose.
+I’m broadly interested in the psychological mechanisms and functions of play, whether it’s in development, therapy, or simply how I can win against my wife in board games. In my PhD, for example, I am exploring the role of pretend play in toddlers' development of executive functions. In my work in dramatherapy, I'm looking at play from a clinical perspective. Nonetheless, I still usually loose in board games against my wife.
 
 Current Projects
 ======
