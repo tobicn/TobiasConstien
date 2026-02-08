@@ -30,7 +30,4 @@ It's no rocket science (although it may be used in that context). In a two-step 
 
 That's all.
 
-<p align="center">
-  <img src="https://github.com/tobicn/TobiasConstien/blob/master/images/CRediT-Tool-Screenshot.png" width="75%" alt="CRediT Author Contribution Tool Screenshot">
-  
 Is this useful? What else should be added? <i>[Let me know!](mailto:tobias.constien@ucdconnect.ie)</i>
