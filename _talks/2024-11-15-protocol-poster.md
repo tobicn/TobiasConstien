@@ -9,4 +9,5 @@ location: "Athlone, Ireland"
 ---
 
 [Find my poster here](https://osf.io/tup39/files/ty8dq)
+
 A protocol poster in which I first shared ideas about my PhD project on toddlers' play and their cognitive development.
