@@ -3,12 +3,12 @@ title: "Drama therapy student research in North America: A narrative review"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-20-student-research
-excerpt: 'A. Cook, **T. Constien**, S. Glick, A. Aachen, M. Dominiski & A. Holkesvig'
+excerpt: 'A. Cook, <b>T. Constien</b>, S. Glick, A. Aachen, M. Dominiski & A. Holkesvig'
 date: 2024-02-20
 venue: 'GMS Journal of Arts Therapies'
 paperurl: 'https://tobicn.github.io/TobiasConstien/files/2024-02-20-student-research.pdf'
 bibtexurl: 'https://tobicn.github.io/TobiasConstien/files/2024-02-20-student-research.ris'
-citation: 'Cook, A., **Constien, T.**, Glick, S. T., Aachen, A., Dominiski, M., & Holkesvig, A. (2024). Drama therapy student research in North America: A narrative review. *GMS Journal of Arts Therapies*, 6, Article 2. https://doi.org/10.3205/jat000035 
+citation: 'Cook, A., <b>Constien, T.</b>, Glick, S. T., Aachen, A., Dominiski, M., & Holkesvig, A. (2024). Drama therapy student research in North America: A narrative review. *GMS Journal of Arts Therapies*, 6, Article 2. https://doi.org/10.3205/jat000035 
 '
 ---
 
