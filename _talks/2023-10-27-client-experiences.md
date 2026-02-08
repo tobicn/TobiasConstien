@@ -9,4 +9,5 @@ location: "HKS Ottersberg, Germany"
 ---
 
 [Find our published abstract here](https://www.egms.de/static/en/meetings/wfkt2023/23wfkt01.shtml)
+
 A poster presentation on our qualitative meta-analysis of clients' experiences in dramatherapy.
