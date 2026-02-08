@@ -10,10 +10,6 @@ tags:
 
 Adding a CRediT statement to a manuscript can be one of the most satisfying experiences in the publication process. But it also, most often, comes at a time where you are done thinking. [I made a tool](https://tobicn.github.io/credit-author-tool/) to take thinking out of the process while still making sure that CRediT goes where CRediT is due.
 
-<p align="right">
-  <img src="https://github.com/tobicn/TobiasConstien/blob/master/images/CRediT-Tool-Logo.png" width="30%" alt="CRediT Author Contribution Tool Logo">
-</p>
-
 Writing CRediT statements should be easier!
 ----
 
