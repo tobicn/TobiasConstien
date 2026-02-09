@@ -62,6 +62,7 @@ Recent talks
   {% for post in talks limit:5 %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}
+</ul>
 
 Honors and awards
 ======
