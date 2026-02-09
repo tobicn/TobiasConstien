@@ -37,17 +37,21 @@ Work experience
   * Assisted in observational coding of various child and parent behaviors.
   * Supervisor: Dr. Jean Quigley and Dr. Elizabeth Nixon
 
-Publications
+Latest Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications reversed limit:4 %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Find the full list [here](https://tobicn.github.io/TobiasConstien/publications/).
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
+  <ul>{% for post in site.talks reversed limit:4 %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
+Find the full list [here](https://tobicn.github.io/TobiasConstien/talks/).
 
 Honors & Awards
 ======
