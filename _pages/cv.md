@@ -16,7 +16,7 @@ Education
 * H. Dip. (Psychology), Trinity College Dublin, 2023
 * B. A. (Dramatherapy), Nürtingen-Geislingen University, 2021
 
-Work experience
+Relevant work experience
 ======
 * <b>Teaching Assistant & Occasional Lecturer</b> - since Sept' 2023
   * School of Psychology, University College Dublin
@@ -37,23 +37,23 @@ Work experience
   * Assisted in observational coding of various child and parent behaviors.
   * Supervisor: Dr. Jean Quigley and Dr. Elizabeth Nixon
 
-Latest Publications
+Latest publications
 ======
+<i>Find the full list [here](https://tobicn.github.io/TobiasConstien/publications/).</i>
+
   <ul>{% for post in site.publications reversed limit:4 %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Find the full list [here](https://tobicn.github.io/TobiasConstien/publications/).
-  
-Talks
+ 
+Recent talks
 ======
+<i>Find the full list [here](https://tobicn.github.io/TobiasConstien/talks/).</i>
+
   <ul>{% for post in site.talks reversed limit:4 %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-Find the full list [here](https://tobicn.github.io/TobiasConstien/talks/).
-
-Honors & Awards
+Honors and awards
 ======
 * <b>Best Lightening Talk</b>
   * December 2024
