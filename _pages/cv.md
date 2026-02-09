@@ -41,7 +41,7 @@ Latest publications
 ======
 <i>Find the full list [here](https://tobicn.github.io/TobiasConstien/publications/).</i>
 
-  <ul>{% for post in site.publications reversed limit:4 %}
+  <ul>{% for post in site.publications limit:4 %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
@@ -49,7 +49,7 @@ Recent talks
 ======
 <i>Find the full list [here](https://tobicn.github.io/TobiasConstien/talks/).</i>
 
-  <ul>{% for post in site.talks reversed limit:4 %}
+  <ul>{% for post in site.talks  limit:4 reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
