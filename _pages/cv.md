@@ -41,9 +41,17 @@ Latest publications
 ======
 <i><small>Find the full list [here](https://tobicn.github.io/TobiasConstien/publications/).</small></i>
 
-  <ul>{% for post in site.publications limit:4 %}
+  <ul>
+  {% assign pubs = site.publications 
+     | where: "category", "manuscripts" 
+     | sort: "date" 
+     | reverse %}
+  {% for post in pubs limit:5 %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
+</ul>
+
+xxx
 
 <ul>
   {% assign pubs = site.publications | sort: "date" | reverse %}
@@ -56,7 +64,18 @@ Recent talks
 ======
 <i><small>Find the full list [here](https://tobicn.github.io/TobiasConstien/talks/).</small></i>
 
-  <ul>{% for post in site.talks  limit:4 reversed %}
+ <ul>
+  {% assign pubs = site.talks 
+     | where: "category", "manuscripts" 
+     | sort: "date" 
+     | reverse %}
+  {% for post in pubs limit:5 %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}
+
+xxx
+ 
+ </ul> <ul>{% for post in site.talks  limit:4 reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
