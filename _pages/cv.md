@@ -39,15 +39,22 @@ Relevant work experience
 
 Latest publications
 ======
-<i>Find the full list [here](https://tobicn.github.io/TobiasConstien/publications/).</i>
+<i><small>Find the full list [here](https://tobicn.github.io/TobiasConstien/publications/).</small></i>
 
   <ul>{% for post in site.publications limit:4 %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+<ul>
+  {% assign pubs = site.publications | sort: "date" | reverse %}
+  {% for post in pubs limit:5 %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+</ul>
  
 Recent talks
 ======
-<i>Find the full list [here](https://tobicn.github.io/TobiasConstien/talks/).</i>
+<i><small>Find the full list [here](https://tobicn.github.io/TobiasConstien/talks/).</small></i>
 
   <ul>{% for post in site.talks  limit:4 reversed %}
     {% include archive-single-talk-cv.html  %}
