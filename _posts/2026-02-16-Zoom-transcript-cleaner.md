@@ -1,4 +1,3 @@
-﻿
 ---
 title: 'Help! My Zoom transcript is full of junk!'
 date: 2026-02-16
