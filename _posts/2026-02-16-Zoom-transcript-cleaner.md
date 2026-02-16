@@ -29,7 +29,7 @@ While this may be a nice feature in case you ever plan to host a lovely intervie
 How do I clean my Zoom transcript using R
 ----
 
-VTT files are basically just text files, which can be read into R as a character vector either using Base R commands (i.e., [readLines()](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/readLines)), or using the [*readr package*](https://readr.tidyverse.org/reference/read_lines.html) within the tidyverse. So, just like we would with any quantitative, we can load our qualitative data, i.e., the transcript downloaded from Zoom, into R.
+VTT files are basically just text files, which can be read into R as a character vector either using Base R commands (i.e., [readLines()](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/readLines)), or using the [*readr package*](https://readr.tidyverse.org/reference/read_lines.html) within the tidyverse. So, just like we would with any quantitative dataset, we can load our qualitative data, i.e., the transcript downloaded from Zoom, into R.
 
     #load library
     library(readr)
@@ -139,6 +139,6 @@ The function can then be called upon using the following command:
 
 That's all.
 
-You can download the full script via my GitHub page here. I haven't tested this yet with interviews or focus groups with more than two participants, though technically, if slightly adapted (i.e., `id_map`) the code should work just fine. Of course, there might be a hiccup, if the Zoom Name, which is included in the transcript, contains a colon, however, in those instances, the names can be deidentified prior to merging the lines. 
+You can [download the full script](https://github.com/tobicn/TobiasConstien/blob/915a50ca8c9f6b1fac4052df4de30d8a91fd4293/files/R-Script-ZoomTranscriptReStructuring.r) via my GitHub page. I haven't tested this yet with interviews or focus groups with more than two speakers, though technically, if slightly adapted (i.e., `id_map`) the code should work just fine. Of course, there might be an issue, if the Zoom Name, which is included in the transcript, contains a colon, however, in those instances, the names can be deidentified prior to merging the lines. 
 
 Is this useful to you? What else should be added? <i>[Let me know!](mailto:tobias.constien@ucdconnect.ie)</i>
