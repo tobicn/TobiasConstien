@@ -10,12 +10,11 @@ tags:
   - R
 ---
 
-Transcribing interviews has always been the worst part about doing qualitative research. So, of course, if Zoom tells me it will create a transcript automatically for me, I say yes instantly! Still, there's all this junk in the transcript Zoom produces that require further cleaning and formatting. I have done this cleaning and formatting of Zoom transcripts now across three separate research projects, but enough is enough: There needs to be a simpler solution. And there is. It's R.
+Transcribing interviews has always been the worst part about doing qualitative research. So, of course, if Zoom tells me it will create a transcript automatically for me, I say yes, please! Still, there's all this junk in a Zoom transcript that requires further cleaning. I have done this pre-processing of Zoom transcripts now across three separate research projects, but enough is enough: There needs to be a simpler solution. And there is. It's R.
 
 Yes, of course, transcribing, the hard way, is a great way to really get to know your data, but at the same time, it also kind of makes you hate your data. And your voice. It's no fun. This is why I love Zoom transcripts. It minimizes the time I have to listen to my own voice. And yes, it does have its little hiccups, like not fully appreciating my German accent at times, but overall, it speeds up the transcription process immensely. 
 
-Still, there's all this junk in the transcript Zoom produces that require further cleaning and formatting before the transcript is *actually* ready to be shared with participants (e.g., to check, add to, or approve), and to be analyzed. You can do this manually within your TextEdit, Word or even Excel. But maybe, this time could be spend actually getting to know your data rather than chasing empty lines and unnecessary clutter? **I got you!**
-
+Still, there's all this junk in the transcript Zoom produces that requires further cleaning and formatting before the transcript is *actually* ready to be shared with participants (e.g., to check, add to, or approve), and to be analyzed. You can do this manually within your TextEdit, Word or even Excel. But maybe, this time may be better spend actually getting to know your data rather than chasing empty lines and unnecessary clutter?
 
 What's all this junk in my Zoom transcript?
 ----
@@ -24,7 +23,7 @@ Zoom's transcripts are meant to be used alongside their recorded video. That is 
 
 ![Example of a VTT File](https://github.com/tobicn/TobiasConstien/blob/master/images/VTT_Example.png?raw=true)
 
-While this may be a nice feature in case you ever plan to host a lovely interview watch-party, it may not really be helpful to you in your qualitative research pursuits, as the transcript (1) breaks up speech into separate lines, and (2) contains all this junk, namely time-stamps and numbering, that are not relevant to you. We want to know all the smart things our participants say. We don't really care at which hundreds of a second they say it. The following R code, therefore, removes all this junk, so that we can focus on what actually matters.
+While this may be a nice feature in case you ever plan to host a interview watch-party, it may not really be helpful to you in your qualitative research pursuits, as the transcript (1) breaks up speech into separate lines, and (2) contains all this junk, namely time-stamps and numbering, that are not relevant to you. We want to know all the smart things our participants say. We don't really care at which hundreds of a second they say it. The following R code, therefore, removes all this junk, so that we can focus on what actually matters.
 
 How do I clean my Zoom transcript using R
 ----
@@ -38,15 +37,15 @@ VTT files are basically just text files, which can be read into R as a character
     transcript <- read_lines(file.choose(),skip = 1, skip_empty_rows = TRUE)
 
 
-Within this piece of code, we are already getting rid of some of the junk Zoom inserts into our transcripts, namely empty rows (i.e, `skip_empty_rows`), and the first line in the VTT file (i.e. `skip = 1`), which always starts with "WEBVTT". The junk remaining now are just the time-stamps, and the line numbers.
+Within this piece of code, we are already getting rid of some of the junk Zoom inserts into our transcripts, namely empty rows (i.e, `skip_empty_rows`), as well as the first line in the VTT file (i.e. `skip = 1`), which always starts with "WEBVTT". The junk remaining now are just the time-stamps, and the line numbers.
 
     transcript <- transcript[!grepl("^\\d+$", transcript) &  #remove lines that contain only numbers (e.g, 330)
                              !grepl("-->", transcript)]      #remove timestamp lines (e.g., 00:31:56.000 --> 00:31:58.360")
 
 
-This code uses the `grepl()` function within R to get rid of (1) lines that contain only numbers, and (2) lines that contain time-stamps. The word *grepl* means “grep logical" and its function allows R to search for distinct patterns of characters within strings based on [regular expression syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet) (e.g., `\d` for numbers) or text input (e.g., `"-->"`)
+This code uses the `grepl()` function within R to get rid of (1) lines that contain only numbers, and (2) lines that contain time-stamps. The word *grepl* means “grep logical" and its function allows R to search for distinct patterns of characters within strings based on [regular expression syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet) (e.g., `\d` for numbers) or specific text input we provide (e.g., `"-->"`)
 
-These two lines of code already remove all of the junk Zoom inserts into our valuable qualitative data. However, Zoom also breaks interview responses into apart, to allow for subtitling line by line. This is unacceptable for us, who would like to read, and analyze our participants' responses in full, rather than separate chunks. So we'll need to take this one step further and merge consecutive lines from the same speaker.
+These two lines of code already remove all of the junk Zoom inserts into our valuable qualitative data. However, Zoom also breaks interview responses apart, to allow for subtitling line by line. This is unacceptable for us, as we would like to read, and analyze our participants' responses in full, rather than separate chunks. So, we'll need to take this one step further and merge consecutive lines from the same speaker.
 
     #merge consecutive lines
     cleaned_transcript <- c()
@@ -87,7 +86,7 @@ The only thing left to do is to save your cleaned transcript. We want to save it
 Can this be streamlined?
 ----
 
-Yes! It can. Because most likely, you'll not only have just one transcript to deal with but, depending on your recruitment efforts, multiple! Rather than going through each step individually for each transcript, you may want to automate this cleaning process using a reusable function in R.
+Yes! It can. Because most likely, you'll not only have just one transcript to deal with but, depending on your recruitment efforts, multiple! Rather than going through each step individually for each transcript, you may want to automate this cleaning pipeline using a reusable function in R.
 
     clean_transcript <- function(file_path,
                              id_map = c("ZoomName" = "Interviewer1",
