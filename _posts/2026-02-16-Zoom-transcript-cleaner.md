@@ -22,7 +22,7 @@ What's all this junk in my Zoom transcript?
 
 Zoom's transcripts are meant to be used alongside their recorded video. That is why Zoom does not produce a simple text file, but instead saves the transcript as a VTT, or Video Text Track, file. This type of file is commonly used for subtitling of videos, which is basically what we do when we ask Zoom to produce a transcript. Consequently, the transcript does not only contain the text of all your thoughtful questions and your participants' insightful remarks, but also their corresponding number and time-stamps, which neatly map onto the video-recording from your interview.
 
-![Example of a VTT File](images/VTT_Example.png)
+![Example of a VTT File](https://github.com/tobicn/TobiasConstien/blob/master/images/VTT_Example.png?raw=true)
 
 While this may be a nice feature in case you ever plan to host a lovely interview watch-party, it may not really be helpful to you in your qualitative research pursuits, as the transcript (1) breaks up speech into separate lines, and (2) contains all this junk, namely time-stamps and numbering, that are not relevant to you. We want to know all the smart things our participants say. We don't really care at which hundreds of a second they say it. The following R code, therefore, removes all this junk, so that we can focus on what actually matters.
 
