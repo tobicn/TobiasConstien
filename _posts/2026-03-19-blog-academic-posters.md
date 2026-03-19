@@ -27,7 +27,7 @@ Structure
 ----
 
 The way I like to design academic posters, is to start with some kind of structure. In the past, that meant sketching out boxes on a piece of paper, arranging and re-arranging them. For my two most recent papers, however, I simply googled academic posters and looked for structures and designs I liked. Here's a recent examples for a poster I designed for our SCOOT Study. You can clearly tell how the structure inspired the final design.
-![enter image description here](https://github.com/tobicn/TobiasConstien/blob/master/images/PosterStructure.png?raw=true)
+![Illustration how structure informed the final poster desing](https://github.com/tobicn/TobiasConstien/blob/master/images/PosterDesign-Structure.png?raw=true)
 
 Font
 ----
@@ -66,6 +66,7 @@ What's more important than the text, are the visuals on your poster. Just like t
 I'm definitely not of the opinion that everything on your poster needs to be functional. I always used little graphics, or visually pleasing effects as a way to make my posters a bit more attractive. 3D effects, or little shadows, for example, are great. Also, slightly rotating text and putting a box around it, makes it stand out and important. A clip-art person pointing towards a piece of text can also be a nifty trick. If anything, a poster should be fun - fun for you to design and talk about, and fun for your audience to look at.
 
 ![Different ways to style and highlight text on a poster](https://github.com/tobicn/TobiasConstien/blob/master/images/PosterDesign-TextHighlight.png?raw=true)
+
 Useful tools and resources
 ----
 
