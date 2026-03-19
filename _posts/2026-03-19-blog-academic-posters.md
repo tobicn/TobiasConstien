@@ -1,4 +1,3 @@
-﻿
 ---
 title: 'This is how I design my academic posters'
 date: 2026-03-19
