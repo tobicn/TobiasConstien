@@ -1,8 +1,8 @@
 ﻿
 ---
 title: 'This is how I design my academic posters'
-date: 2026-02-16
-permalink: /posts/2026/02/academic-posters/
+date: 2026-03-19
+permalink: /posts/2026/03/academic-posters/
 tags:
   - academic-gadgets
   - posters
