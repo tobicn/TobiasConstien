@@ -10,7 +10,7 @@ tags:
   - design
 ---
 
-When I was younger, I'd often accompany my mom to pottery markets. My mom's pottery is amazing, useful, and aesthetically pleasing - just look for [yourself](https://toepferei-constien.de)! Still, being at a market usually meant standing around a lot, and hoping some customers would approach our stand. It was very boring and very awkward. That's the experience that comes to mind every time I'm at a poster session at a conference.
+When I was younger, I'd often accompany my mom to pottery markets. My mom's pottery is amazing, useful, and aesthetically pleasing - just look for [yourself](https://toepferei-constien.de)! Still, being at a market sometimes also meant long periods of waiting, and hoping some customers would approach our stand. That's the experience that comes to my mind every time I'm at a poster session at a conference.
 
 I believe that designing academic posters is similar to academic writing. You may start with some basic template, stick to the script, and prepare something presentable, something that *"fits in"*. But, over time, you start to find your own approach and unique style, the goal now being to stand out, rather than to fit in. For me, I feel like I'm learning or trying something new every time I'm designing a new poster, something that is very evident in the timeline of my own previous posters.
 
