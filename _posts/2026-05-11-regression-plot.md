@@ -10,7 +10,7 @@ tags:
   - design
 ---
 
-Multiple regressions are notoriously difficult to report - at least if you'd like it to be somewhat intuitive and visually appealing. Regression tables, the go-to reporting device for these kinds of analyses, are clunky, information-dense, and far from intuitive. Here, I present an R function to quickly create a clear, visually appealing regression coefficient plot that can supplement, or even replace these tables in posters, presentations, or papers.
+Multiple regressions are notoriously difficult to report - at least if you'd like it to be somewhat intuitive and visually appealing. Regression tables, the go-to reporting device for these kinds of analyses, are clunky, information-dense, and far from intuitive. Here, I present an *R* function to quickly create a clear, visually appealing **regression coefficients plot* that can supplement, or even replace these tables in posters, presentations, or papers.
 
 ![From Tables to Plots - Visualizing Regression Analyses](https://github.com/tobicn/TobiasConstien/blob/master/images/RegressionPlot-Image1.png?raw=true)
 
