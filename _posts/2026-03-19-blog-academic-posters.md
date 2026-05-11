@@ -10,7 +10,9 @@ tags:
   - design
 ---
 
-When I was younger, I'd often accompany my mom to pottery markets. My mom's pottery is amazing, useful, and aesthetically pleasing - just look for [yourself](https://toepferei-constien.de)! Still, being at a market sometimes also meant long periods of waiting, and hoping some customers would approach our stand. That's the experience that comes to my mind every time I'm at a poster session at a conference.
+Like everyone, I'm a big fan of The Office. On a recent rewatch, I came across episode 17 of season 4, "Job Fair", where Michael, Pam, Oscar, and Darrel visit the Job Fair, with nothing but a single piece of paper. That's roughly the experience I have everytime I am at a poster presentation. Poster presentations can be a mixed bag — long stretches of waiting, smiling at strangers, and hoping someone stops to chat. But they can also be genuinely fun and energising, as long as your piece of paper, your poster, is doing its job!
+
+![That's all we brought](https://github.com/tobicn/TobiasConstien/blob/master/images/the-office-paper.gif?raw=true)
 
 I believe that designing academic posters is similar to academic writing. You may start with some basic template, stick to the script, and prepare something presentable, something that *"fits in"*. But, over time, you start to find your own approach and unique style, the goal now being to stand out, rather than to fit in. For me, I feel like I'm learning or trying something new every time I'm designing a new poster, something that is very evident in the timeline of my own previous posters.
 
