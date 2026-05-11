@@ -10,7 +10,7 @@ tags:
   - design
 ---
 
-Like everyone, I'm a big fan of The Office. On a recent rewatch, I came across episode 17 of season 4, "Job Fair", where Michael, Pam, Oscar, and Darrel visit the Job Fair, with nothing but a single piece of paper. That's roughly the experience I have everytime I am at a poster presentation. Poster presentations can be a mixed bag — long stretches of waiting, smiling at strangers, and hoping someone stops to chat. But they can also be genuinely fun and energising, as long as your piece of paper, your poster, is doing its job!
+Like everyone, I'm a big fan of *The Office*. On a recent rewatch, I came across [episode 17](https://theoffice.fandom.com/wiki/Job_Fair) of season 4, where Michael, Pam, Oscar, and Darrel visit a Job Fair, with nothing but a single piece of paper. That's roughly the experience I have everytime I am at a poster presentation. Poster presentations can be a mixed bag, including long stretches of waiting, smiling at strangers, and hoping someone stops to talk about your research. But they can also be genuinely fun and energising, as long as your piece of paper, your poster, is doing its job!
 
 ![That's all we brought](https://github.com/tobicn/TobiasConstien/blob/master/images/the-office-paper.gif?raw=true)
 
