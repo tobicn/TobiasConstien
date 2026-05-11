@@ -28,5 +28,10 @@ var addressPoints = [
     "Current Research Efforts in the Field of Dramatherapy<br />World Alliance of Dramatherapy (WADth) Conference; Amersfoort, Netherlands",
     52.1562499,
     5.3896944
+  ],
+  [
+    "Do parents see the full picture? Screen time and toddlers\u2019 executive functioning development<br />Children's Research Network - Annual Conference; University College Dublin, Ireland",
+    53.3068763,
+    -6.2246251
   ]
 ];
