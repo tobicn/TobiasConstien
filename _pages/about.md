@@ -14,7 +14,10 @@ I’m broadly interested in the psychological mechanisms and functions of play, 
 Current Projects
 ======
 
-One of the wonderful <i>(and sometimes horrible)</i> things about working in and around academia, is that you always have a number of projects ongoing at the same time. This is a snippet of my to-do list right now:
+
+![Some of the projects I'm working on right now](https://github.com/tobicn/TobiasConstien/blob/master/images/ProjectLogos.png?raw=true)
+
+One of the wonderful things about working in and around academia, is that you always have a number of projects ongoing at the same time. This is a snippet of my to-do list right now:
 
 - <b>[TEDDY Project](https://www.ucdbabylab.com/teddy-project):</b> My wonderful, fun PhD Project on toddlers' play and executive functions.
 - <b>Fatherhood Study</b>: A meaningful qualitative study on the experience of becoming a father for the very first time.
