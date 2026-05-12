@@ -1,5 +1,5 @@
 ---
-title: "Let's stop soley relying on multiple regression tables"
+title: "Let's stop relying on multiple regression tables"
 date: 2026-05-11
 permalink: /posts/2026/05/regression-plot/
 tags:
