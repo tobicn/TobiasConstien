@@ -23,7 +23,7 @@ repository               : "tobicn/TobiasConstien.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "TobiSquare1.png"
   name             : "Tobias Constien"
   pronouns         : "he/him"  
   bio              : "PhD Candidate"
