@@ -1,6 +1,6 @@
 # Academic Portfolio — Tobias Constien
 
-This repository powers my personal academic website, built with [AcademicPages](https://github.com/academicpages/academicpages.github.io), a really great GitHub Pages template designed for researchers and academics (highly recommend!).
+This repository powers my [personal academic website](https://tobicn.github.io/TobiasConstien/), built with [AcademicPages](https://github.com/academicpages/academicpages.github.io), a really great GitHub Pages template designed for researchers and academics (highly recommend!).
 
 ## About
 
