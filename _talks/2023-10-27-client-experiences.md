@@ -8,6 +8,6 @@ date: 2023-10-27
 location: "HKS Ottersberg, Germany"
 ---
 
-[Read our published abstract](https://www.egms.de/static/en/meetings/wfkt2023/23wfkt01.shtml)
+- [Read our published abstract](https://www.egms.de/static/en/meetings/wfkt2023/23wfkt01.shtml)
 
 A poster presentation on our qualitative meta-analysis of clients' experiences in dramatherapy.
