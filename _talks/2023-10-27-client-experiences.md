@@ -1,5 +1,5 @@
 ---
-title: "Qualitative Meta-Analysis of Client Experiences of Dramatherapy"
+title: "Qualitative meta-analysis of client experiences of dramatherapy"
 collection: talks
 type: "Poster"
 permalink: /talks/2023-10-27-client-experiences
