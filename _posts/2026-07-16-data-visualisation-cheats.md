@@ -21,7 +21,7 @@ The graphic that is presented to visitors after entry in front of the elevator s
 
 I took the time to redraw this graph by size. This is what it should actually look like. @SWR, if you want to update your graph (and stop lying with data visualisations), you can find it in my GitHub.
 
-I also don't want to lie with data visualistions, so I should acknowledge here that I had the image that I took of the graph during my visit redrawn by ChatGPT to correct glare and contrast. I checked that the presented sizes remained unchanged.
+I also don't want to lie with data visualistions, so I should acknowledge here that I had the [image](https://github.com/tobicn/TobiasConstien/blob/master/images/StuttgartTV-Tower-Picture.jpg?raw=true) that I took of the graph during my visit redrawn by ChatGPT to correct glare and contrast. I checked that the presented sizes remained unchanged.
 
 That’s all.
 ----
