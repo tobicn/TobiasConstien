@@ -26,4 +26,4 @@ I also don't want to lie with data visualistions, so I should acknowledge here t
 That’s all.
 ----
 
-Let us not lie with data visualisations. I'm hoping to collect similar examples - if you have any, *[let me know](mailto:tobias.constien@ucdconnect.ie)!*
+Let us not lie with data visualisations.  You can read a really great blog post on this topic from Michal Szudejko on the [TowardsDataScience](https://towardsdatascience.com/how-not-to-cheat-with-data-visualizations-46fa9c8e13b0/) blog. I'm hoping to collect additional examples and add them here - if you have any, *[let me know](mailto:tobias.constien@ucdconnect.ie)!*
