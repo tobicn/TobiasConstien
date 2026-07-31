@@ -21,9 +21,9 @@ One of the wonderful things about working in and around academia, is that you al
 
 - <b>[TEDDY Project](https://www.ucdbabylab.com/teddy-project):</b> My wonderful, fun PhD Project on toddlers' play and executive functions.
 - <b>Fatherhood Study</b>: A meaningful qualitative study on the experience of becoming a father for the very first time.
-- <b>[SCOOT Study](https://osf.io/a5473/overview):</b> The SCOOT study looks at toddlers' sleep, screen-time, and play in Ireland.
+- <b>[SCOOT Study](https://osf.io/a5473/overview):</b> The SCOOT study looks at toddlers' sleep, screen-time, and play in Ireland. We just recently published our first [paper](https://tobicn.github.io/TobiasConstien/publication/2026-07-31-not-an-extra) from this project.
 - <b>[EFD Case Study Project](https://osf.io/p4tzc/overview):</b> A collaborative pilot from the European Federation of Dramatherapy and the Dramatherapy Journal.
-- <b>[Adults Play Too!](https://osf.io/wcdga/overview):</b> A systematic review mapping quantitative measures of adult playfulness.
+- <b>[Adults Play Too!](https://osf.io/wcdga/overview):</b> A systematic review mapping quantitative measures of adult playfulness. Our paper is currently in production.
 
 
 For more info
