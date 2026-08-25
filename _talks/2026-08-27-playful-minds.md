@@ -6,8 +6,8 @@ permalink: /talks/2026-08-27-playful-minds
 venue: "International Infant and Child Development Conference"
 date: 2026-08-27
 gallery:
-  - url: /master/files/slide-00.png
-    image_path: /master/files/slide-00.png
+  - url: /files/slide-00.png
+    image_path: /files/slide-00.png
     alt: "Title Slide"
     title: "Playful Minds"
   - url: /files/2026-08-27-playful-minds.pdf
