@@ -13,9 +13,6 @@ location: "Lancaster University, UK"
 
 A presentation on recent research findings on pretend play and executive functions in early childhood across the studies of my PhD project TEDDY.
 
-carousels:
-  - images: 
-    - image: /files/2026-08-27-playful-minds-png/slide-00.png
-    - image: /files/2026-08-27-playful-minds-png/slide-01.png
-    - image: /files/2026-08-27-playful-minds-png/slide-02.png
-    - image: /files/2026-08-27-playful-minds-png/slide-03.png
+<object data="/files/2026-08-27-playful-minds.pdf" type="application/pdf" width="100%" height="600px">
+  <p>the browser does not support PDFs. <a href="/assets/pdfs/thefile.pdf">Download the PDF</a>.</p>
+</object>
