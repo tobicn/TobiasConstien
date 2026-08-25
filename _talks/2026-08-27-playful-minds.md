@@ -11,11 +11,5 @@ location: "Lancaster University, UK"
 - [Download my slides!](/Users/tobiconstien/TobiasConstien/files/2026-08-27-playful-minds.pdf)
 
 
-A presentation on recent research findings on pretend play and executive functions in early childhood across the studies of my PhD project TEDDY.
+A presentation on recent research findings on pretend play, parental playfulness and executive functions in early childhood from the first wave of data collection of the **TEDDY Study**.
 
-<iframe
-  src="/pdfjs/web/viewer.html?file=/files/2026-08-27-playful-minds.pdf"
-  width="100%"
-  height="700px"
->
-</iframe>
