@@ -6,8 +6,8 @@ permalink: /talks/2026-08-27-playful-minds
 venue: "International Infant and Child Development Conference"
 date: 2026-08-27
 gallery:
-  - url: /files/slide-00.png
-    image_path: /files/slide-00.png
+  - url: https://github.com/tobicn/TobiasConstien/blob/master/files/slide-00.png
+    image_path: https://github.com/tobicn/TobiasConstien/blob/master/files/slide-00.png
     alt: "Title Slide"
     title: "Playful Minds"
   - url: files/slide-01.png
@@ -17,7 +17,7 @@ gallery:
 location: "Lancaster University, UK"
 ---
 
-- [Download my slides!](/Users/tobiconstien/TobiasConstien/files/2026-08-27-playful-minds.pdf)
+- [Download my slides!](https://github.com/tobicn/TobiasConstien/blob/master/files/2026-08-27-playful-minds.pdf)
 
 
 A presentation on recent research findings on pretend play, parental playfulness and executive functions in early childhood from the first wave of data collection of the **TEDDY Study**.
