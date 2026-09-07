@@ -19,7 +19,7 @@ I developed a <b>**series of seminars** </b>for their undergraduate program in d
 This seminar presents current trends in dramatherapy research and 
 shared insights with students how to conduct an effective literature
 search based on my work at the Institute for which I developed and 
-analysed a <a href="https://www.w3schools.com/" target="_blank">literature database of dramatherapy</a>.
+analysed a <a href="https://tobicn.github.io/TobiasConstien/publication/2023-02-01-bibliometric-analysis" target="_blank">literature database of dramatherapy</a>.
 Students were guided in how to effectively utilise the dramatherapy
 literature database as well as external sources for written assignments
 and final year research projects.</br></br>
@@ -70,7 +70,7 @@ microanalytic sequential process design, qualitative helpful/unhelpful
 factors design and quantiative process-outcome design. It further 
 explored and discussed the use of qualitative research methods in 
 dramatherapy.</br>
-Utilised slides can be found on my <a href="https://github.com/tobicn/TobiasConstien/blob/32eb4454561389b70d319e688d7ead18c6bf3595/_teaching/2025-12-18-process-research-seminar.pdf" 
+Utilised slides can be found on my <a href="https://github.com/tobicn/TobiasConstien/blob/2d42813f4e9bb2a57c3ed644e11101f883293f7a/files/2025-12-18-process-research-seminar.pdf" 
 target="_blank">GitHub</a>.
 </br>
 <b>Offered in:</b>
