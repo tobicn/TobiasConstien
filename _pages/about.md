@@ -15,6 +15,8 @@ Current Projects
 ======
 One of the wonderful things about working in and around academia, is that you always have a number of projects ongoing at the same time. This is a snippet of my to-do list right now:
 
+![Some of the projects I'm working on right now](https://github.com/tobicn/TobiasConstien/blob/master/images/ProjectLogos2.png?raw=true)
+
 TEDDY Project
 ------
 My wonderful, fun [PhD Project](https://www.ucdbabylab.com/teddy-project) on toddlers' play and executive functions. The project includes several studies, including an already published meta-analysis on the relation between pretend play and executive functions in early childhood (Constien et al., [2026](https://tobicn.github.io/TobiasConstien/publication/2026-01-21-head-taller)). Currently, I am working on the second round of my data collection of my longitudinal study, which tracks the development of pretend play and executive functions from two to three years of age.
@@ -30,8 +32,6 @@ The [SCOOT Study](https://osf.io/a5473/overview) looks at toddlers' sleep, scree
 Adults Play Too!
 ----
 Often forgotten, yet nonetheless true: Adults play too! In this collaborative study with Rinat Feniger-Schaal and Amitai Stern (University of Haifa) we mapped via a [pre-registered systematic review ](https://osf.io/wcdga/overview)extant quantitative measures of adult playfulness. What we found: Everybody is playing a different game. As of now, there's little convergence between prevalent measures of adult playfulness, which means that few studies are actually comparable. Our manuscript has been accepted for publication in the International Journal of Play and is currently in production.
-
-![Some of the projects I'm working on right now](https://github.com/tobicn/TobiasConstien/blob/master/images/ProjectLogos2.png?raw=true)
 
 For more info
 ------
