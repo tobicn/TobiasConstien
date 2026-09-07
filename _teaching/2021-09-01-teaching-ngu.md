@@ -15,7 +15,7 @@ I developed a <b>**series of seminars** </b>for their undergraduate program in d
 **Independently designed seminars**
 
 <details>
-<summary> Finding and using current literature in dramatherapy</summary>
+<summary><i>Finding and using current literature in dramatherapy</i></summary>
 <p>This seminar presents current trends in dramatherapy research and shared insights with students how to conduct an effective literature search based on my work at the Institute for which I developed and analysed a <a href="https://tobicn.github.io/TobiasConstien/publication/2023-02-01-bibliometric-analysis" target="_blank">literature database of dramatherapy</a>.</p>
 <p>Students were guided in how to effectively utilise the dramatherapy literature database as well as external sources for written assignments and final year research projects.</p>
 <p><b>Offered in:</b></p>
@@ -26,7 +26,7 @@ I developed a <b>**series of seminars** </b>for their undergraduate program in d
 </ul>
 </details>
 <details>
-<summary>Theories in dramatherapy practice and research</summary>
+<summary><i>Theories in dramatherapy practice and research</i></summary>
 <p>This seminar discusses the diversity of theories prevalent within dramatherapy practices and how these might inform (or hinder) research. Based on recently published commentaries and editorials (Klees, <a href="https://link.springer.com/chapter/10.1007/978-3-030-76208-7_23" target="_blank">2021</a>; Sajnani, <a href="https://intellectdiscover.com/content/journals/10.1386/dtr_00001_2" target="_blank">2019</a>; Wood, <a href="https://link.springer.com/chapter/10.1007/978-3-030-76208-7_21" target="_blank">2021</a>), students are encouraged to critically review current research approaches.</p>
 <p><b>Offered in:</b></p>
 <ul>
@@ -36,7 +36,7 @@ I developed a <b>**series of seminars** </b>for their undergraduate program in d
 </ul>
 </details>
 <details>
-<summary>Conducting and reading a systematic review in dramatherapy</summary>
+<summary><i>Conducting and reading a systematic review in dramatherapy</i></summary>
 <p>This seminar introduced students to the conduct and critical analysis of a systematic literature review. It was based on my own research at the Institute for Development and Research in the Arts Therapies (IKTn), which involved two systematic reviews (Constien et al., <a href="https://osf.io/wcdga/overview" target="_blank">2023</a>; Constien et al., <a href="https://tobicn.github.io/TobiasConstien/publication/2025-10-15-client-experiences-paper" target="_blank">2025</a>).</p>
 <p>This seminar utilised the sandwich method, which alternates between theoretical input and practical application.</p> 
 <p><b>Offered in:</b></p>
@@ -45,7 +45,7 @@ I developed a <b>**series of seminars** </b>for their undergraduate program in d
 </ul>
 </details>
 <details>
-<summary>Process research in dramatherapy</summary>
+<summary><i>Process research in dramatherapy</i></summary>
 <p>This seminar introduced research methods within psychotherapy process research to students, including significant events research, microanalytic sequential process design, qualitative helpful/unhelpful factors design and quantiative process-outcome design. It further explored and discussed the use of qualitative research methods in dramatherapy.</p>
 <p>Utilised slides can be found on my <a href="https://github.com/tobicn/TobiasConstien/blob/2d42813f4e9bb2a57c3ed644e11101f883293f7a/files/2025-12-18-process-research-seminar.pdf" 
 target="_blank">GitHub</a>.</p>
