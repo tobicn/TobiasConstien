@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! Welcome to my academic portfolio. I am <b>Tobias Constien</b> – but you should feel free to just call me Tobi! I am currently a PhD Candidate at the [UCD Babylab](https://www.ucdbabylab.com) in the School of Psychology at the University College Dublin. I’m being supervised by [Dr. Michelle Downes](https://people.ucd.ie/michelle.downes).
+Hi there! Welcome to my academic portfolio. I am <b>Tobias Constien</b> – but you should feel free to just call me Tobi! I am currently a PhD Candidate at the [UCD Babylab](https://www.ucdbabylab.com) in the School of Psychology at the University College Dublin. I’m being supervised by [Dr. Michelle Downes](https://people.ucd.ie/michelle.downes) and [Dr. Brendan Rooney](https://people.ucd.ie/brendan.rooney).
 
 I’m broadly interested in the psychological mechanisms and functions of play, whether it’s in development, therapy, or simply how I can win board games against my wife. In my PhD I am exploring the role of pretend play in toddlers' development of executive functions. In my work in dramatherapy, I'm looking at play from a clinical perspective. Nonetheless, I still usually loose games against my wife.
 
@@ -27,7 +27,7 @@ A meaningful qualitative study on the experience of becoming a father for the ve
 
 〇 SCOOT Study
 ------
-The [SCOOT Study](https://osf.io/a5473/overview) looks at toddlers' sleep, screen-time, and play in Ireland. We just recently published our first [paper](https://tobicn.github.io/TobiasConstien/publication/2026-07-31-not-an-extra) from this project. Another study from this project, which looks at the moderating role of sleep within the relation of toddlers' screen time and executive functions development, is currently under review with Human Behaviour and Emerging Technologies.
+The [SCOOT Study](https://osf.io/a5473/overview) from the UCD Babylab looks at toddlers' sleep, screen-time, and play in Ireland. We just recently published our first [paper](https://tobicn.github.io/TobiasConstien/publication/2026-07-31-not-an-extra) from this project. Another study from this project, which looks at the moderating role of sleep within the relation of toddlers' screen time and executive functions development, is currently under review with Human Behaviour and Emerging Technologies.
 
 〇 Adults Play Too!
 ----
