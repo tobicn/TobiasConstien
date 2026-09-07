@@ -4,7 +4,7 @@ collection: teaching
 type: "Dramatherapy"
 permalink: /teaching/ngu
 venue: "Nürtingen-Geislingen University, Dramatherapy"
-date: 2021 - present
+date: 2021-09-01
 location: "Nürtingen, Germany"
 ---
 
