@@ -13,18 +13,25 @@ I’m broadly interested in the psychological mechanisms and functions of play, 
 
 Current Projects
 ======
-
-
-![Some of the projects I'm working on right now](https://github.com/tobicn/TobiasConstien/blob/master/images/ProjectLogos.png?raw=true)
-
 One of the wonderful things about working in and around academia, is that you always have a number of projects ongoing at the same time. This is a snippet of my to-do list right now:
 
-- <b>[TEDDY Project](https://www.ucdbabylab.com/teddy-project):</b> My wonderful, fun PhD Project on toddlers' play and executive functions.
-- <b>Fatherhood Study</b>: A meaningful qualitative study on the experience of becoming a father for the very first time.
-- <b>[SCOOT Study](https://osf.io/a5473/overview):</b> The SCOOT study looks at toddlers' sleep, screen-time, and play in Ireland. We just recently published our first [paper](https://tobicn.github.io/TobiasConstien/publication/2026-07-31-not-an-extra) from this project.
-- <b>[EFD Case Study Project](https://osf.io/p4tzc/overview):</b> A collaborative pilot from the European Federation of Dramatherapy and the Dramatherapy Journal.
-- <b>[Adults Play Too!](https://osf.io/wcdga/overview):</b> A systematic review mapping quantitative measures of adult playfulness. Our paper is currently in production.
+TEDDY Project
+------
+My wonderful, fun [PhD Project](https://www.ucdbabylab.com/teddy-project) on toddlers' play and executive functions. The project includes several studies, including an already published meta-analysis on the relation between pretend play and executive functions in early childhood (Constien et al., [2026](https://tobicn.github.io/TobiasConstien/publication/2026-01-21-head-taller)). Currently, I am working on the second round of my data collection of my longitudinal study, which tracks the development of pretend play and executive functions from two to three years of age.
 
+Evolving identity of fatherhood
+------
+A meaningful qualitative study on the experience of becoming a father for the very first time that I developed and conducted out of a shared interest with my colleague and fellow PhD Candidate Donagh Seaver-O'Leary. This study interviewed fourteen first-time fathers in Ireland and analysed their experience of becoming a father for the first time via an interpretative-phenomenological approach. The prepared manuscript is currently under review with Infant Mental Health.
+
+SCOOT Study
+------
+The [SCOOT Study](https://osf.io/a5473/overview) looks at toddlers' sleep, screen-time, and play in Ireland. We just recently published our first [paper](https://tobicn.github.io/TobiasConstien/publication/2026-07-31-not-an-extra) from this project. Another study from this project, which looks at the moderating role of sleep within the relation of toddlers' screen time and executive functions development, is currently under review with Human Behaviour and Emerging Technologies.
+
+Adults Play Too!
+----
+Often forgotten, yet nonetheless true: Adults play too! In this collaborative study with Rinat Feniger-Schaal and Amitai Stern (University of Haifa) we mapped via a [pre-registered systematic review ](https://osf.io/wcdga/overview)extant quantitative measures of adult playfulness. What we found: Everybody is playing a different game. As of now, there's little convergence between prevalent measures of adult playfulness, which means that few studies are actually comparable. Our manuscript has been accepted for publication in the International Journal of Play and is currently in production.
+
+![Some of the projects I'm working on right now](https://github.com/tobicn/TobiasConstien/blob/master/images/ProjectLogos2.png?raw=true)
 
 For more info
 ------
