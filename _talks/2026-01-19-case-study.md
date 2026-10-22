@@ -8,4 +8,4 @@ date: 2026-01-19
 location: "Online"
 ---
 
-A collaborative presentation on the evaluation study of the EFD Case Study Project.
+A collaborative presentation from the NADTA Research Committee and the EFD Research Committee on two mentoring programs for dramatherapists interested in publishing about their work at the annual conference of the *British Association of Dramatherapy*.
