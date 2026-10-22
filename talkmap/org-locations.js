@@ -40,6 +40,11 @@ var addressPoints = [
     3.8595132
   ],
   [
+    "*Screens, Sleep, and Cognition*: A buffering role for sleep in toddlers' cognitive development<br />Sleep Europe 2026 (ESRS); Maastricht, Netherlands",
+    50.8512438,
+    5.6909768
+  ],
+  [
     "*Let's Play*: Toddlers' pretend play and executive functions<br />Lancaster International Conference on Infant and Early Child Development; Lancaster, UK",
     54.0488219,
     -2.8013499
