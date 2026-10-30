@@ -2,10 +2,12 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/5.3.7/umd/photoswipe-lightbox.umd.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/5.3.7/umd/photoswipe.umd.min.js"></script>
 <script>
-  const lightbox = new PhotoSwipeLightbox({
-    gallery: '.pswp-gallery',   // every element with this class is its own slideshow
-    children: 'a',
-    pswpModule: PhotoSwipe      // UMD build can't use dynamic import
+  window.addEventListener('load', function () {
+    var lightbox = new PhotoSwipeLightbox({
+      gallery: '.pswp-gallery',
+      children: 'a',
+      pswpModule: PhotoSwipe
+    });
+    lightbox.init();
   });
-  lightbox.init();
 </script>
