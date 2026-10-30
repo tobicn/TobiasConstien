@@ -17,7 +17,7 @@ Education
 <style>
   .project {
     border: 1px solid rgba(128,128,128,.3);
-    border-left: 4px solid #595959 ;
+    border-left: 4px solid #5CB4CD ;
     border-radius: 6px;
     margin: 0 0 .4em .4em;
     padding: 0 1em;
@@ -241,3 +241,10 @@ Honors and awards
 
 </details>
 <br>
+
+Professional Memberships
+======
+
+* Cognitive Development Society (CDS)
+* UCD Childhood and Human Development Research Centre (CHilD-RC)
+* Children’s Research Network (CRN)
