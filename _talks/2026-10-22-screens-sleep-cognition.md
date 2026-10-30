@@ -6,6 +6,7 @@ permalink: /talks/2026-10-22-screens-sleep-cognition
 venue: "Sleep Europe 2026 (ESRS)"
 date: 2026-08-27
 location: "Maastricht, Netherlands"
+slideshow: true
 ---
 
 A presentation on recent research findings from the **SCOOT Study** on the role of sleep within the association of screen time and toddlers' development of executive function skills.
@@ -22,3 +23,7 @@ A presentation on recent research findings from the **SCOOT Study** on the role 
 **Results**. Findings show that after accounting for demographic variables (i.e., age, parental education), and sleep quality within a multiple regression model, screen use was not associated with toddlers’ cognitive executive functions. However, in a separate model, screen use showed a significant, negative association to toddlers’ regulatory executive functions, moderated by toddlers’ quality of sleep. In other words, toddlers who fall asleep easier at night, sleep longer and with fewer interruptions, showed no adverse effect of screen use in their regulatory skills, whereas toddlers who have a difficult time falling asleep, wake more often, and sleep less, are more affected by screen use. 
 
 **Conclusions**. This study shows that contextual factors of toddlers’ screen use need to be considered when assessing the role of screen use in development. Specifically, sleep may play a protective role within toddlers’ development of self-regulation. Experimental and longitudinal studies are needed to further explore the direction of the identified associations to better understand content and contextual factors of screen use during toddlerhood.
+
+# Slideshow
+
+{% include slideshow.html id="talk1" folder="/files/2026_sleep_europe_slides" count=17 title="Sleep Europe 2026 - Presentation" %}
