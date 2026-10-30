@@ -13,16 +13,32 @@ I’m broadly interested in the psychological mechanisms and functions of play, 
 
 # What's new
 
-## 📚 Publications
+## 📚 Hot off the press - recent publications
 
-{% assign pubs = site.publications | where: "category", "manuscripts" | sort: "date" | reverse %} {% for post in pubs limit:2 %} {% include archive-single-cv.html %} {% endfor %}
+  <ul>
+  {% assign pubs = site.publications 
+     | where: "category", "manuscripts" 
+     | sort: "date" 
+     | reverse %}
+  {% for post in pubs limit:2 %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+</ul>
 
-## 📚 Talks
+<i><small>Find the full list [here](https://tobicn.github.io/TobiasConstien/publications/).</small></i>
+ 
+## Recent talks
 
-{% assign pubs = site.publications | where: "category", "manuscripts" | sort: "date" | reverse %} {% for post in pubs limit:2 %} {% include archive-single-cv.html %} {% endfor %}
+ <ul>
+  {% assign talks = site.talks 
+     | sort: "date" 
+     | reverse %}
+  {% for post in talks limit:2 %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}
+</ul>
 
-
-
+<i><small>Find the full list [here](https://tobicn.github.io/TobiasConstien/talks/).</small></i>
 
 Current Projects
 ======
