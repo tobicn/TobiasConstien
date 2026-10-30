@@ -12,12 +12,13 @@ slideshow: true
 A presentation on recent research findings from the **SCOOT Study** on the role of sleep within the association of screen time and toddlers' development of executive function skills.
 
 # Slideshow
-<span style="font-size: 50%;"><em>Click on the image below to browse through the slideshow</em></span>
-
-{% include slideshow.html id="talk1" folder="/files/2026-sleep-europe-slides" count=17 title="Sleep Europe 2026 - Presentation" %}
 
 - [Download my slides](https://github.com/tobicn/TobiasConstien/blob/master/files/2026-10-22-screens-sleep-cognition.pdf)
 - [Download my poster](https://github.com/tobicn/TobiasConstien/blob/master/files/2026-10-22-screens-sleep-cognition-poster.pdf)
+
+<span style="font-size: 75%;"><em>Click on the image below to browse through the slideshow.</em></span>
+
+{% include slideshow.html id="talk1" folder="/files/2026-sleep-europe-slides" count=17 title="Sleep Europe 2026 - Presentation" %}
 
 # Abstract
 
