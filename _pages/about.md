@@ -15,7 +15,7 @@ I’m broadly interested in the psychological mechanisms and functions of play, 
 <style>
   .project {
     border: 1px solid rgba(128,128,128,.3);
-    border-left: 4px solid #009E73 ;
+    border-left: 4px solid #5CB4CD ;
     border-radius: 6px;
     margin: 0 0 .8em;
     padding: 0 1em;
