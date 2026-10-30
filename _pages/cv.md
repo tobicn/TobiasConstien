@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV]({{ 'files/2024-05-06-client-experiences-paper.pdf' | relative_url }}){: .btn .btn--primary target="_blank" rel="noopener"}
+[Download my CV]({{ 'files/2026-cv-constien.pdf' | relative_url }}){: .btn .btn--primary target="_blank" rel="noopener"}
 
 Education
 ======
@@ -55,7 +55,7 @@ Education
 </style>
 
 <details class="project" markdown="1">
-<summary>Doctor of Philosophy (PhD), <i style="color: #999;">University College Dublin</i> <span class="tag"><i>expected 2027</i></span></summary>
+<summary>Doctor of Philosophy (PhD), <span style="color: #999;">University College Dublin</span> <span class="tag"><i>expected 2027</i></span></summary>
 
 A three-year PhD program in the UCD Babylab under the supervision of [Assoc. Prof. Michelle Downes](https://people.ucd.ie/michelle.downes) and [Assoc. Prof. Brendan Rooney](https://people.ucd.ie/brendan.rooney) at the School of Psychology at University College Dublin. Funded via the UCD Ad Astra Scholarship. My [research project](https://www.ucdbabylab.com/teddy-project) focuses on pretend play and executive functions during the toddlerhood period.
 
@@ -68,7 +68,7 @@ A three-year PhD program in the UCD Babylab under the supervision of [Assoc. Pro
 </details>
 
 <details class="project" markdown="1">
-<summary>Master of Psychological Science, <i style="color: #999;">University College Dublin</i> <span class="tag">2024</span></summary>
+<summary>Master of Psychological Science, <span style="color: #999;">University College Dublin</span> <span class="tag">2024</span></summary>
 
 A one-year postgraduate program in psychology with a chosen emphasis on developmental and counselling psychology. Research project on research communication in palliative care research under the supervision of Prof. Suzanne Guerin and funded by the European Association for Palliative Care.
 
@@ -77,7 +77,7 @@ A one-year postgraduate program in psychology with a chosen emphasis on developm
 </details>
 
 <details class="project" markdown="1">
-<summary>Higher Diploma (Psychology), <i style="color: #999;">Trinity College Dublin</i> <span class="tag">2023</span></summary>
+<summary>Higher Diploma (Psychology), <span style="color: #999;">Trinity College Dublin</span> <span class="tag">2023</span></summary>
 
 A two-year psychology conversion course that grants a pre-professional qualification in psychology. Funded by the German Academic Scholarship Foundation. Final project in the Infant and Child Research Laboratory under the supervision of Prof. Jean Quigley on parental playfulness.
 
@@ -86,7 +86,7 @@ A two-year psychology conversion course that grants a pre-professional qualifica
 </details>
 
 <details class="project" markdown="1">
-<summary>Bachelor of Arts (Dramatherapy), <i style="color: #999;">Nürtingen-Geislingen University </i> <span class="tag">2021</span></summary>
+<summary>Bachelor of Arts (Dramatherapy), <span style="color: #999;">Nürtingen-Geislingen University </span> <span class="tag">2021</span></summary>
 
 Four-year program of drama therapy with an emphasis on psychology, counselling and the performing arts. Funded by the German Academic Scholarship Foundation and the Deutschlandstipendium. Thesis on intersectoral cooperation between the cultural sector and health services (1,0), which was awarded the Young Arts Therapies Research Award.
 
@@ -97,28 +97,28 @@ Relevant work experience
 ======
 
 <details class="project" markdown="1">
-<summary>Tutor and Occasional Lecturer, <i style="color: #999;">University College Dublin</i> <span class="tag"><i>since 2025</i></span></summary>
+<summary>Tutor and Occasional Lecturer, <span style="color: #999;">University College Dublin</span> <span class="tag"><i>since 2025</i></span></summary>
 
 Teaching undergraduate and graduate modules on research methods and statistics, early childhood development, and introductory courses on psychology as a tutor, and occasional lecturer. Topics include play, cognitive development, or quantitative statistics. For a full overview of my teaching and sample lectures see [here](https://tobicn.github.io/TobiasConstien/teaching/)
 
 </details>
 
 <details class="project" markdown="1">
-<summary>Associate Data Specialist, <i style="color: #999;">Childhood Development Initiative</i> <span class="tag">2024-<i>present</i></span></summary>
+<summary>Associate Data Specialist, <span style="color: #999;">Childhood Development Initiative</span> <span class="tag">2024-<i>present</i></span></summary>
 
 Analysing quantitative and qualitative data from early childhood and education programs from the Childhood Development Initiative as well as other organisations from the area-based childhood programme (ABC).
 
 </details>
 
 <details class="project" markdown="1">
-<summary>Tutor and Occasional Lecturer, <i style="color: #999;">Nürtingen-Geislingen University</i> <span class="tag">2022-2026</span></summary>
+<summary>Tutor and Occasional Lecturer, <span style="color: #999;">Nürtingen-Geislingen University</span> <span class="tag">2022-2026</span></summary>
 
 Developing and teaching seminars for undergraduate students in the dramatherapy program on topics in and around research in dramatherapy, which aim to foster research skills. For a full overview of my teaching and sample lectures see [here](https://tobicn.github.io/TobiasConstien/teaching/)
 
 </details>
 
 <details class="project" markdown="1">
-<summary>Research Assistant, <i style="color: #999;">Institute for Research and Development in the Arts Therapies</i> <span class="tag">2022-2024</span></summary>
+<summary>Research Assistant, <span style="color: #999;">Institute for Research and Development in the Arts Therapies</span> <span class="tag">2022-2024</span></summary>
 
 Conducting research on the literature in the field of dramatherapy and teaching tutorials in research methods to students in the undergraduate dramatherapy program. My research was published in international peer-reviewed journals and presented at international conferences in Germany, Belgium, the Netherlands, as well as the UK.
 
@@ -130,14 +130,14 @@ Conducting research on the literature in the field of dramatherapy and teaching 
 </details>
 
 <details class="project" markdown="1">
-<summary>Research Assistant, <i style="color: #999;">Trinity College Dublin</i> <span class="tag">2023</span></summary>
+<summary>Research Assistant, <span style="color: #999;">Trinity College Dublin</span> <span class="tag">2023</span></summary>
 
 Assisted in observational coding of various child and parent behaviors at the Infant and Child Research Laboratory (Trinity College Dublin). My direct supervisor were Dr. Jean Quigley and Dr. Elizabeth Nixon.
 
 </details>
 
 <details class="project" markdown="1">
-<summary>Research Assistant, <i style="color: #999;">European Association of Palliative Care</i> <span class="tag">2023</span></summary>
+<summary>Research Assistant, <span style="color: #999;">European Association of Palliative Care</span> <span class="tag">2023</span></summary>
 
 As part of my masters training, I worked with the European Association of Palliative Care to evaluate their research dissemination efforts witin EU-funded palliative care research projects. My direct supervisors were Prof. Suzanne Guerin (UCD), and Dr. Cathy Payne (EAPC).
 
