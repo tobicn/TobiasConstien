@@ -4,11 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% if site.publication_category %}
 <p class="pub-nav">
   <strong>Jump to:</strong>
@@ -16,6 +11,10 @@ author_profile: true
     <a href="#{{ category[0] }}">{{ category[1].title }}</a>{% unless forloop.last %} &nbsp;|&nbsp; {% endunless %}
   {% endfor %}
 </p>
+{% endif %}
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
