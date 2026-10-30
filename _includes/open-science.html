@@ -1,0 +1,13 @@
+<style>
+.open-science { margin: 1em 0; }
+.open-science .btn { margin: 0 .4em .4em 0; }
+</style>
+<div class="open-science">
+{%- if include.paper -%}<a href="{{ include.paper }}" class="btn btn--success btn--small" target="_blank" rel="noopener"><i class="fas fa-lock-open"></i> Open access</a>{%- endif -%}
+{%- if include.preprint -%}<a href="{{ include.preprint }}" class="btn btn--success btn--small" target="_blank" rel="noopener"><i class="fas fa-file-alt"></i> Preprint</a>{%- endif -%}
+{%- if include.prereg -%}<a href="{{ include.prereg }}" class="btn btn--success btn--small" target="_blank" rel="noopener"><i class="fas fa-clipboard-check"></i> Preregistration</a>{%- endif -%}
+{%- if include.data -%}<a href="{{ include.data }}" class="btn btn--success btn--small" target="_blank" rel="noopener"><i class="fas fa-database"></i> Data</a>{%- endif -%}
+{%- if include.code -%}<a href="{{ include.code }}" class="btn btn--success btn--small" target="_blank" rel="noopener"><i class="fas fa-code"></i> Code</a>{%- endif -%}
+{%- if include.materials -%}<a href="{{ include.materials }}" class="btn btn--success btn--small" target="_blank" rel="noopener"><i class="fas fa-toolbox"></i> Materials</a>{%- endif -%}
+{%- if include.osf -%}<a href="{{ include.osf }}" class="btn btn--success btn--small" target="_blank" rel="noopener"><i class="fas fa-folder-open"></i> OSF project</a>{%- endif -%}
+</div>
