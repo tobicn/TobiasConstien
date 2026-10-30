@@ -46,7 +46,7 @@ I’m broadly interested in the psychological mechanisms and functions of play, 
     font-weight: 500;
     padding: .15em .7em;
     border-radius: 999px;
-    background: #CC79A7;
+    background: rgba(59,130,246,.15);
     white-space: nowrap;
   }
   .project p { font-size: .95em; }
@@ -84,6 +84,7 @@ Often forgotten, yet nonetheless true: adults play too! In this collaborative st
 
 </details>
 
+I love collaborating in and around research. If you have anything you'd like to add to my to-do list, feel free to reach out!
 
 For more info
 ======
