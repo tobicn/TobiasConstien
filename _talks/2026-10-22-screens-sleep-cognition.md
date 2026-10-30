@@ -26,4 +26,4 @@ A presentation on recent research findings from the **SCOOT Study** on the role 
 
 # Slideshow
 
-{% include slideshow.html id="talk1" folder="/files/2026_sleep_europe_slides" count=17 title="Sleep Europe 2026 - Presentation" %}
+{% include slideshow.html id="talk1" folder="/files/2026-sleep-europe-slides" count=17 title="Sleep Europe 2026 - Presentation" %}
