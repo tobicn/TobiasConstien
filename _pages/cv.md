@@ -55,7 +55,7 @@ Education
 </style>
 
 <details class="project" markdown="1">
-<summary>Doctor of Philosophy (PhD), <span style="color: #999;">University College Dublin</span> <span class="tag"><i>expected 2027</i></span></summary>
+<summary>Doctor of Philosophy <span style="color: #999;">University College Dublin</span> <span class="tag"><i>expected 2027</i></span></summary>
 
 A three-year PhD program in the UCD Babylab under the supervision of [Assoc. Prof. Michelle Downes](https://people.ucd.ie/michelle.downes) and [Assoc. Prof. Brendan Rooney](https://people.ucd.ie/brendan.rooney) at the School of Psychology at University College Dublin. Funded via the UCD Ad Astra Scholarship. My [research project](https://www.ucdbabylab.com/teddy-project) focuses on pretend play and executive functions during the toddlerhood period.
 
@@ -68,7 +68,7 @@ A three-year PhD program in the UCD Babylab under the supervision of [Assoc. Pro
 </details>
 
 <details class="project" markdown="1">
-<summary>Master of Psychological Science, <span style="color: #999;">University College Dublin</span> <span class="tag">2024</span></summary>
+<summary>Master of Psychological Science <span style="color: #999;">University College Dublin</span> <span class="tag">2024</span></summary>
 
 A one-year postgraduate program in psychology with a chosen emphasis on developmental and counselling psychology. Research project on research communication in palliative care research under the supervision of Prof. Suzanne Guerin and funded by the European Association for Palliative Care.
 
@@ -77,7 +77,7 @@ A one-year postgraduate program in psychology with a chosen emphasis on developm
 </details>
 
 <details class="project" markdown="1">
-<summary>Higher Diploma (Psychology), <span style="color: #999;">Trinity College Dublin</span> <span class="tag">2023</span></summary>
+<summary>Higher Diploma (Psychology) <span style="color: #999;">Trinity College Dublin</span> <span class="tag">2023</span></summary>
 
 A two-year psychology conversion course that grants a pre-professional qualification in psychology. Funded by the German Academic Scholarship Foundation. Final project in the Infant and Child Research Laboratory under the supervision of Prof. Jean Quigley on parental playfulness.
 
@@ -86,7 +86,7 @@ A two-year psychology conversion course that grants a pre-professional qualifica
 </details>
 
 <details class="project" markdown="1">
-<summary>Bachelor of Arts (Dramatherapy), <span style="color: #999;">Nürtingen-Geislingen University </span> <span class="tag">2021</span></summary>
+<summary>Bachelor of Arts (Dramatherapy) <span style="color: #999;">Nürtingen-Geislingen University </span> <span class="tag">2021</span></summary>
 
 Four-year program of drama therapy with an emphasis on psychology, counselling and the performing arts. Funded by the German Academic Scholarship Foundation and the Deutschlandstipendium. Thesis on intersectoral cooperation between the cultural sector and health services (1,0), which was awarded the Young Arts Therapies Research Award.
 
@@ -97,28 +97,28 @@ Relevant work experience
 ======
 
 <details class="project" markdown="1">
-<summary>Tutor and Occasional Lecturer, <span style="color: #999;">University College Dublin</span> <span class="tag"><i>since 2025</i></span></summary>
+<summary>Tutor and Occasional Lecturer <span style="color: #999;">University College Dublin</span> <span class="tag"><i>since 2025</i></span></summary>
 
 Teaching undergraduate and graduate modules on research methods and statistics, early childhood development, and introductory courses on psychology as a tutor, and occasional lecturer. Topics include play, cognitive development, or quantitative statistics. For a full overview of my teaching and sample lectures see [here](https://tobicn.github.io/TobiasConstien/teaching/)
 
 </details>
 
 <details class="project" markdown="1">
-<summary>Associate Data Specialist, <span style="color: #999;">Childhood Development Initiative</span> <span class="tag">2024-<i>present</i></span></summary>
+<summary>Associate Data Specialist <span style="color: #999;">Childhood Development Initiative</span> <span class="tag">2024-<i>present</i></span></summary>
 
 Analysing quantitative and qualitative data from early childhood and education programs from the Childhood Development Initiative as well as other organisations from the area-based childhood programme (ABC).
 
 </details>
 
 <details class="project" markdown="1">
-<summary>Tutor and Occasional Lecturer, <span style="color: #999;">Nürtingen-Geislingen University</span> <span class="tag">2022-2026</span></summary>
+<summary>Tutor and Occasional Lecturer <span style="color: #999;">Nürtingen-Geislingen University</span> <span class="tag">2022-2026</span></summary>
 
 Developing and teaching seminars for undergraduate students in the dramatherapy program on topics in and around research in dramatherapy, which aim to foster research skills. For a full overview of my teaching and sample lectures see [here](https://tobicn.github.io/TobiasConstien/teaching/)
 
 </details>
 
 <details class="project" markdown="1">
-<summary>Research Assistant, <span style="color: #999;">Institute for Research and Development in the Arts Therapies</span> <span class="tag">2022-2024</span></summary>
+<summary>Research Assistant <span style="color: #999;">Institute for Research and Development in the Arts Therapies</span> <span class="tag">2022-2024</span></summary>
 
 Conducting research on the literature in the field of dramatherapy and teaching tutorials in research methods to students in the undergraduate dramatherapy program. My research was published in international peer-reviewed journals and presented at international conferences in Germany, Belgium, the Netherlands, as well as the UK.
 
@@ -130,14 +130,14 @@ Conducting research on the literature in the field of dramatherapy and teaching 
 </details>
 
 <details class="project" markdown="1">
-<summary>Research Assistant, <span style="color: #999;">Trinity College Dublin</span> <span class="tag">2023</span></summary>
+<summary>Research Assistant <span style="color: #999;">Trinity College Dublin</span> <span class="tag">2023</span></summary>
 
 Assisted in observational coding of various child and parent behaviors at the Infant and Child Research Laboratory (Trinity College Dublin). My direct supervisor were Dr. Jean Quigley and Dr. Elizabeth Nixon.
 
 </details>
 
 <details class="project" markdown="1">
-<summary>Research Assistant, <span style="color: #999;">European Association of Palliative Care</span> <span class="tag">2023</span></summary>
+<summary>Research Assistant <span style="color: #999;">European Association of Palliative Care</span> <span class="tag">2023</span></summary>
 
 As part of my masters training, I worked with the European Association of Palliative Care to evaluate their research dissemination efforts witin EU-funded palliative care research projects. My direct supervisors were Prof. Suzanne Guerin (UCD), and Dr. Cathy Payne (EAPC).
 
@@ -176,21 +176,68 @@ Recent talks
 
 Honors and awards
 ======
-* <b>Best Talk Award</b>
-  * August 2026
-  * Lancaster Conference of Infant and Child Development (UK)
-* <b>Best Lightening Talk</b>
-  * December 2024
-  * Children’s Research Network (Ireland)
-* <b>Graduates’ Prize in Psychology</b>
-  * June 2023
-  * Trinity College Dublin
-* <b>Young Arts Therapies Research Award</b>
-  * October 2021
-  * Scientific Association for the Creative Arts Therapies (WFKT)
-* <b>Scholarship</b>
-  * January 2020
-  * German Academic Scholarship Foundation
-* <b>Deutschlandstipendium</b>
-  * September 2019
-  * Nürtingen-Geislingen University 
+
+<details class="project" markdown="1">
+<summary>Presentation Award, <span style="color: #999;">Conference of Infant and Child Development</span> <span class="tag">2026</span></summary>
+
+* Best Talk at the International Conference of Infant and Child Development (Lancaster University)
+* 100£ Book Token
+
+</details>
+
+<details class="project" markdown="1">
+<summary>Postgraduate Conference Travel Award <span style="color: #999;">UCD School of Psychology</span> <span class="tag">2026</span></summary>
+
+* 500€ to attend the International Conference of Infant and Early Child Development
+* School of Psychology, University College Dublin
+
+</details>
+
+<details class="project" markdown="1">
+<summary>Best Project Award <span style="color: #999;">UNA Europa</span> <span class="tag">2026</span></summary>
+
+* 2026 Data Science and AI Challenge for Social Welfare - Hackathon
+* UNA Europa, (Spain)
+
+</details>
+
+<details class="project" markdown="1">
+<summary>Presentation Award <span style="color: #999;">Children's Research Network</span> <span class="tag">2024</span></summary>
+
+* 2024 Annual Conference of the Children's Research Network
+* Best Lightning Talk
+
+</details>
+
+<details class="project" markdown="1">
+<summary>Graduates’ Prize in Psychology <span style="color: #999;">Trinity College Dublin</span> <span class="tag">2023</span></summary>
+
+* 2024 Annual Conference of the Children's Research Network
+* Best Lightning Talk
+
+</details>
+
+<details class="project" markdown="1">
+<summary>Young Arts Therapies Research Award <span style="color: #999;">Scientific Association for the Creative Arts Therapies</span> <span class="tag">2021</span></summary>
+
+* Best Bachelor Thesis
+* Awarded at the 2021 Annual Conference of the Scientific Association for the Creative Arts Therapies
+
+</details>
+
+<details class="project" markdown="1">
+<summary>Scholarship <span style="color: #999;">German Academic Scholarship Foundation</span> <span class="tag">2020-2024</span></summary>
+
+* Merit-based scholarship from the German Academic Scholarship Foundation (Deutsche Studienstiftung)
+* 300€/month, plus tuition and fees for Higher Diploma at Trinity College Dublin and master’s degree at University College Dublin
+
+</details>
+
+<details class="project" markdown="1">
+<summary>Scholarship <span style="color: #999;">Deutschlandstipendium</span> <span class="tag">2019-2020</span></summary>
+
+* Merit-based scholarship from the Deutschlandstipendium awarded by the Nürtingen-Geislingen University.
+* 300€/month
+
+</details>
+<br>
