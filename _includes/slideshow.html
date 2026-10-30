@@ -1,0 +1,13 @@
+<div class="pswp-gallery slideshow" id="{{ include.id | default: 'deck' }}">
+  {% for i in (1..include.count) %}
+    <a href="{{ include.folder | relative_url }}/slide-{{ i }}.jpg"
+       data-pswp-width="1920" data-pswp-height="1080"
+       target="_blank"
+       {% unless forloop.first %}style="display:none"{% endunless %}>
+      {% if forloop.first %}
+        <img src="{{ include.folder | relative_url }}/slide-1.jpg"
+             alt="{{ include.title | default: 'Slideshow' }}" style="max-width:100%">
+      {% endif %}
+    </a>
+  {% endfor %}
+</div>
