@@ -8,7 +8,7 @@ date: 2026-09-03
 venue: 'The Arts in Psychotherapy'
 paperurl: 'https://tobicn.github.io/TobiasConstien/files/2026-09-03-what-works.pdf'
 bibtexurl: 'https://tobicn.github.io/TobiasConstien/files/2026-09-03-what-works.ris'
-citation: '<b>Constien, T.</b>, Keiller, E., Bourne, J., Willemsen, M., Bruun, E. F., Klees S., Pendzik, S.. (2026). “I understand more what works”</i>: Evaluating an intervention developed to support dramatherapists in writing their first clinical case study. <I>The Arts In Psychotherapy</i>, 101, 102524. https://doi.org/10.1016/j.aip.2026.102524'
+citation: '<b>Constien, T.</b>, Keiller, E., Bourne, J., Willemsen, M., Bruun, E. F., Klees S., Pendzik, S.. (2026). “<i>I understand more what works”</i>: Evaluating an intervention developed to support dramatherapists in writing their first clinical case study. <i>The Arts In Psychotherapy</i>, 101, 102524. https://doi.org/10.1016/j.aip.2026.102524'
 ---
 
   [Download PDF]({{ 'files/2026-09-03-what-works.pdf' | relative_url }}){: .btn .btn--primary target="_blank" rel="noopener"}
