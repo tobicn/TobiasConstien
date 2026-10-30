@@ -13,8 +13,8 @@ A presentation on recent research findings from the **SCOOT Study** on the role 
 
 # Slideshow
 
-- [Download my slides](https://github.com/tobicn/TobiasConstien/blob/master/files/2026-10-22-screens-sleep-cognition.pdf)
-- [Download my poster](https://github.com/tobicn/TobiasConstien/blob/master/files/2026-10-22-screens-sleep-cognition-poster.pdf)
+  [Download Slides]({{ 'files/2026-10-22-screens-sleep-cognition.pdf' | relative_url }}){: .btn .btn--primary target="_blank" rel="noopener"}
+  [Download Poster]({{ 'files/2026-10-22-screens-sleep-cognition-poster.pdf' | relative_url }}){: .btn .btn--primary target="_blank" rel="noopener"}
 
 {% include slideshow.html id="talk1" folder="/files/2026-sleep-europe-slides" count=17 title="Sleep Europe 2026 - Presentation" %}
 
