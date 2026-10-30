@@ -51,7 +51,7 @@ var addressPoints = [
   ],
   [
     "*Screens, Sleep, and Cognition*: A buffering role for sleep in toddlers' cognitive development<br />Sleep Europe 2026 (ESRS); Maastricht, Netherlands",
-    50.8512438,
-    5.6909768
+    50.8579855,
+    5.6969882
   ]
 ];
