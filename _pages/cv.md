@@ -11,19 +11,15 @@ redirect_from:
 
 Education
 ======
-* <i>Ph.D in Psychology, University College Dublin, 2027 (expected)</i>
-* M.Psych Sc., University College Dublin, 2024
-* H. Dip. (Psychology), Trinity College Dublin, 2023
-* B. A. (Dramatherapy), Nürtingen-Geislingen University, 2021
 
 <style>
   .project {
     border: 1px solid rgba(128,128,128,.3);
     border-left: 4px solid #009E73 ;
     border-radius: 6px;
-    margin: 0 0 .8em;
+    margin: 0 0 .8em 1.5em;
     padding: 0 1em;
-    background: rgba(128,128,128,.05);
+    background: #FFFFFF;
   }
   .project summary {
     display: flex;
