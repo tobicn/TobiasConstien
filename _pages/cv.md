@@ -16,6 +16,83 @@ Education
 * H. Dip. (Psychology), Trinity College Dublin, 2023
 * B. A. (Dramatherapy), Nürtingen-Geislingen University, 2021
 
+<style>
+  .project {
+    border: 1px solid rgba(128,128,128,.3);
+    border-left: 4px solid #009E73 ;
+    border-radius: 6px;
+    margin: 0 0 .8em;
+    padding: 0 1em;
+    background: rgba(128,128,128,.05);
+  }
+  .project summary {
+    display: flex;
+    align-items: center;
+    gap: .6em;
+    cursor: pointer;
+    font-weight: 600;
+    padding: .7em 0;
+    list-style: none;
+  }
+  .project summary::-webkit-details-marker { display: none; }
+  .project summary::before {
+    content: "▸";
+    transition: transform .2s;
+  }
+  .project[open] summary::before { transform: rotate(90deg); }
+  .project[open] summary {
+    border-bottom: 1px solid rgba(128,128,128,.25);
+    margin-bottom: .6em;
+  }
+  .project .tag {
+    margin-left: auto;
+    font-size: .7em;
+    font-weight: 500;
+    padding: .15em .7em;
+    border-radius: 999px;
+    background: rgba(59,130,246,.15);
+    white-space: nowrap;
+  }
+  .project p { font-size: .95em; }
+</style>
+
+<details class="project" markdown="1">
+<summary><b>Ph.D in Psychology</b>, University College Dublin <span class="tag"><i>expected 2027</i></span></summary>
+
+A three-year PhD program in the UCD Babylab under the supervision of [Assoc. Prof. Michelle Downes](https://people.ucd.ie/michelle.downes) and [Assoc. Prof. Brendan Rooney](https://people.ucd.ie/brendan.rooney) at the School of Psychology at University College Dublin. Funded via the UCD Ad Astra Scholarship. My [research project](https://www.ucdbabylab.com/teddy-project) focuses on pretend play and executive functions during the toddlerhood period.
+*I am expecting to submit my thesis during the summer of 2027.*
+
+</details>
+
+<details class="project" markdown="1">
+<summary><b>Master of Psychological Science</b>, University College Dublin <span class="tag">2024</span></summary>
+
+A one-year postgraduate program in psychology with a chosen emphasis on developmental and counselling psychology. Research project on research communication in palliative care research under the supervision of Prof. Suzanne Guerin and funded by the European Association for Palliative Care.
+
+* 1<sup>st</sup> Class Honors (3.94/4.00 GPA)
+
+</details>
+
+<details class="project" markdown="1">
+<summary><b>Higher Diploma (Psychology)</b>, Trinity College Dublin <span class="tag">2023</span></summary>
+
+A two-year psychology conversion course that grants a pre-professional qualification in psychology. Funded by the German Academic Scholarship Foundation. Final project in the Infant and Child Research Laboratory under the supervision of Prof. Jean Quigley on parental playfulness.
+
+* 1<sup>st</sup> Class Honors (76)
+
+</details>
+
+<details class="project" markdown="1">
+<summary><b>Bachelor of Arts (Dramatherapy)</b>, Nürtingen-Geislingen University <span class="tag">2021</span></summary>
+
+Four-year program of drama therapy with an emphasis on psychology, counselling and the performing arts. Funded by the German Academic Scholarship Foundation and the Deutschlandstipendium. Thesis on intersectoral cooperation between the cultural sector and health services (1,0), which was awarded the Young Arts Therapies Research Award.
+
+</details>
+
+
+
+
+
 Relevant work experience
 ======
 * <b>Teaching Assistant & Occasional Lecturer</b> - since Sept' 2023
