@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-10-30-playfulness-model
 excerpt: 'R. Feniger-Schaal, <b>T. Constien</b> & H. Orkibi'
 date: 2024-10-30
-venue: 'The Arts in Psychotherapy'
+venue: 'Humanities and Social Sciences Communications'
 paperurl: 'https://tobicn.github.io/TobiasConstien/files/2024-10-30-playfulness-model.pdf'
 bibtexurl: 'https://tobicn.github.io/TobiasConstien/files/2024-10-30-playfulness-model.ris'
 citation: 'Feniger-Schaal, R., <b>Constien, T.</b>, & Orkibi, H. (2024). Playfulness in times of extreme adverse conditions: A theoretical model and case illustrations. <i>Humanities and Social Sciences Communications</i>, 11(1), 1446. https://doi.org/10.1057/s41599-024-03936-z '
