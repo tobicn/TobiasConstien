@@ -66,6 +66,9 @@ Recent talks
 
 Honors and awards
 ======
+* <b>Best Talk Award</b>
+  * August 2026
+  * Lancaster Conference of Infant and Child Development (UK)
 * <b>Best Lightening Talk</b>
   * December 2024
   * Children’s Research Network (Ireland)
