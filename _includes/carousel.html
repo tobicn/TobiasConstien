@@ -1,0 +1,24 @@
+{% assign cid = include.id | default: "carousel" %}
+{% assign files = include.files | split: "," %}
+<style>
+.mini-carousel { position: relative; margin: 1em 0; }
+.mini-carousel .track { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; border-radius: 6px; }
+.mini-carousel .track img { flex: 0 0 100%; width: 100%; scroll-snap-align: center; display: block; }
+.mini-carousel button { position: absolute; top: 50%; transform: translateY(-50%); border: 0; background: rgba(0,0,0,.5); color: #fff; font-size: 1.5em; padding: .2em .5em; cursor: pointer; border-radius: 4px; }
+.mini-carousel .prev { left: .5em; }
+.mini-carousel .next { right: .5em; }
+</style>
+<div class="mini-carousel" id="{{ cid }}">
+<div class="track">
+{%- for f in files -%}<img src="{{ include.folder | relative_url }}/{{ f | strip }}" alt="{{ include.alt | default: 'Slide' }} {{ forloop.index }}" loading="lazy">{%- endfor -%}
+</div>
+<button class="prev" aria-label="Previous">&#8249;</button>
+<button class="next" aria-label="Next">&#8250;</button>
+</div>
+<script>
+(function () {
+  var c = document.getElementById('{{ cid }}'), t = c.querySelector('.track');
+  c.querySelector('.prev').onclick = function () { t.scrollBy({ left: -t.clientWidth }); };
+  c.querySelector('.next').onclick = function () { t.scrollBy({ left: t.clientWidth }); };
+})();
+</script>
