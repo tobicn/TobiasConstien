@@ -11,7 +11,7 @@ Hi there! Welcome to my academic portfolio. I am <b>Tobias Constien</b> – but 
 
 I’m broadly interested in the psychological mechanisms and functions of play, whether it’s in development, therapy, or simply how I can win board games against my wife. In my PhD I am exploring the role of pretend play in toddlers' development of executive functions. In my work in dramatherapy, I'm looking at play from a clinical perspective. Nonetheless, I still usually loose games against my wife.
 
-{% include carousel.html id="about_img" folder="/images/about" files="about_img0.jpg, about_img1.jpg, about_img2.jpg, about_img3.jpg, about_img4.jpg, about_img5.jpg, about_img6.jpg" alt="Illustrations of my work" %}
+{% include carousel.html id="about_img" folder="/images/about" files="about_img0.jpg, about_img1.jpg, about_img2.jpg, about_img3.jpg, about_img4.jpg, about_img5.jpg" alt="Illustrations of my work" %}
 
 <style>
   .project {
