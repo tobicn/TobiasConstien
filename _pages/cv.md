@@ -248,5 +248,5 @@ Professional Memberships
 * Editorial Board [*Dramatherapy*](https://www.intellectbooks.com/dramatherapy)
 * Executive Committee: [UCD Childhood and Human Development Research Centre](https://child.ucd.ie)
 * Children’s Research Network (CRN)
-* * Cognitive Development Society (CDS)
+* Cognitive Development Society (CDS)
 
