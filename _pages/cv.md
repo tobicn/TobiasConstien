@@ -174,13 +174,6 @@ Recent talks
   {% endfor %}
 </ul>
 
-Professional Memberships
-======
-
-* Cognitive Development Society (CDS)
-* UCD Childhood and Human Development Research Centre (CHilD-RC)
-* Children’s Research Network (CRN)
-
 Honors and awards
 ======
 
@@ -248,3 +241,12 @@ Honors and awards
 
 </details>
 <br>
+
+Professional Memberships
+======
+
+* Editorial Board [*Dramatherapy*](https://www.intellectbooks.com/dramatherapy)
+* Executive Committee: [UCD Childhood and Human Development Research Centre](https://child.ucd.ie)
+* Children’s Research Network (CRN)
+* * Cognitive Development Society (CDS)
+
