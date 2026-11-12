@@ -6,8 +6,8 @@ permalink: /publication/2025-10-15-client-experiences-paper
 excerpt: '<b>T. Constien</b>, A. Khanna & A. Wiberg'
 date: 2025-10-15
 venue: 'Qualitative Psychology'
-paperurl: 'https://tobicn.github.io/TobiasConstien/files/2024-10-30-playfulness-model.pdf'
-bibtexurl: 'https://tobicn.github.io/TobiasConstien/files/2024-10-30-playfulness-model.ris'
+paperurl: 'https://tobicn.github.io/TobiasConstien/files/2024-05-06-client-experienes-paper.pdf'
+bibtexurl: 'https://tobicn.github.io/TobiasConstien/files/2024-05-06-client-experienes-paper.ris'
 citation: '<b>Constien, T.</b>, Khanna, A., & Wiberg, A. (2025). Client experiences of drama therapy: A systematic review and qualitative meta-analysis. <i>Qualitative Psychology</i>, 12(3), 311–337. https://doi.org/10.1037/qup0000300'
 ---
 
