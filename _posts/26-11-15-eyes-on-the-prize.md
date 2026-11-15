@@ -2,6 +2,7 @@
 title: "Eyes on the prize: Using observations as a measure of toddlers' executive functioning"
 date: 2026-11-15
 permalink: /posts/2026/10/eyes-on-the-prize/
+slideshow: true
 tags:
   - executive functions
   - research
@@ -12,7 +13,7 @@ I recently had the opportunity to contribute a brief presentation on observation
 
 <div class="pswp-gallery">
   <a href="{{ '/images/blog-posts/26-11-15-eefgn/26-11-15-eefgn-presentation-slide.jpg' | relative_url }}" data-pswp-width="1600" data-pswp-height="1067" target="_blank">
-    <img src="{{ '//images/blog-posts/26-11-15-eefgn/26-11-15-eefgn-presentation-slide.jpg' | relative_url }}" alt="Description" style="max-width:100%">
+    <img src="{{ '//images/blog-posts/26-11-15-eefgn/26-11-15-eefgn-presentation-slide.jpg' | relative_url }}" alt="A Powerpoint slide highlighting key points on observational approaches to executive functions measurement that are explained in this blog post" style="max-width:100%">
   </a>
 </div>
 
@@ -30,7 +31,11 @@ And while this statement is arguably true, it somewhat neglects to mention that 
 
 **In short**: Executive functions matter for toddlers' everyday, moment-to-moment behaviours. 
 
-![toddler-traffic-light-2.jpg](/images/blog-posts/26-11-15-eefgn/26-11-15-traffic-light.jpg)
+<div class="pswp-gallery">
+  <a href="{{ '/images/blog-posts/26-11-15-eefgn/26-11-15-traffic-light.jpg' | relative_url }}" data-pswp-width="2480" data-pswp-height="1229" target="_blank">
+    <img src="{{ '/images/blog-posts/26-11-15-eefgn/26-11-15-traffic-light.jpg' | relative_url }}" alt="A simplistic drawing of a young girl waiting at a red pedestrian light" style="max-width:100%">
+  </a>
+</div>
 
 ## When it rains, it pours
 
@@ -47,6 +52,11 @@ In sum, **executive functioning is not static**. It is based on multiple skills,
 Children's moment-to-moment behaviour, however, does not only depend on what toddlers do, but importantly with *whom*. This also extends to children's executive functioning, and, by extension, their overall display of self-regulation. Specifically, Vygotsky's **Zone of Proximal Development** posits that there is a delta in between children's own self-regulatory skills, and the level of their exhibited self-regulation when engaged in interactions with a competent other, who can guide and scaffold children's behaviour (Vytosky, [1978](#references)).
 
 ![Zone-of-proximal-development.jpg](/images/blog-posts/26-11-15-eefgn/26-11-15-zone-of-proximal-development.jpg)
+<div class="pswp-gallery">
+  <a href="{{ '/images/blog-posts/26-11-15-eefgn/26-11-15-zone-of-proximal-development.jpg' | relative_url }}" data-pswp-width="2480" data-pswp-height="1229" target="_blank">
+    <img src="{{ '/images/blog-posts/26-11-15-eefgn/26-11-15-zone-of-proximal-development.jpg' | relative_url }}" alt="Graphical illustration of Vygotsky's Zone of Proximal Development moving from what a child can do independently, to what a child can do with support, and cannot do" style="max-width:100%">
+  </a>
+</div>
 
 This delta between what can be achieved alone vs. with a competent other may be particularly important in early development, in which infants and toddlers are somewhat dependent on their parents and caregivers in regard to their own regulation of behaviour and emotions. For example, it is parent's care and attention that can soothe a toddler after getting upset, or, conversely, it is parent's lack of attention that signals a toddler that this event, like falling down, is not worth crying over. Sticking with the example from the EEFQ, it may be also be the specific tone within parent's command of *do/don't touch* that signals urgency and prompt a toddler to halt their movement.
 
