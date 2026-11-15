@@ -72,13 +72,6 @@ A meaningful qualitative study on the experience of becoming a father for the ve
 </details>
 
 <details class="project" markdown="1">
-<summary>SCOOT Study <span class="tag">First paper published</span></summary>
-
-The [SCOOT Study](https://osf.io/a5473/overview) from the UCD Babylab looks at toddlers' sleep, screen time, and play in Ireland. We recently published our first [paper](https://tobicn.github.io/TobiasConstien/publication/2026-07-31-not-an-extra) from this project. Another study, which looks at the moderating role of sleep in the relation between toddlers' screen time and executive function development, is currently under review with *Human Behaviour and Emerging Technologies*.
-
-</details>
-
-<details class="project" markdown="1">
 <summary>Adults Play Too! <span class="tag">In print</span></summary>
 
 Often forgotten, yet nonetheless true: adults play too! In this collaborative study with Rinat Feniger-Schaal and Amitai Stern (University of Haifa), we used a [pre-registered systematic review](https://osf.io/wcdga/overview) to map existing quantitative measures of adult playfulness. What we found: everybody is playing a different game. There is little convergence between prevalent measures of adult playfulness, which means that few studies are actually comparable. Our manuscript has been accepted for publication in the *International Journal of Play* and is currently in production.
