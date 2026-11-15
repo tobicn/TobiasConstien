@@ -68,7 +68,7 @@ Given these advantages, there's recently been an increasing interest in utilisin
 
 To my knowledge, there has not been an observational measure of toddlers' executive functioning and self-regulation. Although the Self-Regulation in Play Scale has been used with children as young as two, it was developed to be used for preschoolers and within preschool settings. In my research, I am exploring toddlers' pretend play and executive functioning, which includes an observation of dyadic parent-child free play. Building on the items developed for the Regulation-Related Skill Measure, I am intending to develop and test an observational regulation measure for toddlers.
 
-Do you have any ideas how that can be done? *[Do let me know!](mailto:tobias.constien@ucdconnect.ie)*
+Do you have any ideas how this may be done? *[Do let me know!](mailto:tobias.constien@ucdconnect.ie)*
 
 ## References
 
