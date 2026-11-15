@@ -123,34 +123,6 @@ Developing and teaching seminars for undergraduate students in the dramatherapy 
 
 </details>
 
-<details class="project" markdown="1">
-<summary>Research Assistant <span style="color: #999;">Institute for Research and Development in the Arts Therapies</span> <span class="tag">2022-2024</span></summary>
-
-Conducting research on the literature in the field of dramatherapy and teaching tutorials in research methods to students in the undergraduate dramatherapy program. My research was published in international peer-reviewed journals and presented at international conferences in Germany, Belgium, the Netherlands, as well as the UK.
-
-**Output**
-- Constien & Junker ([2023](https://tobicn.github.io/TobiasConstien/publication/2023-02-01-bibliometric-analysis))
-- Cook et al., ([2024](https://tobicn.github.io/TobiasConstien/publication/2024-02-20-student-research))
-- Habaal & Constien ([2025](https://tobicn.github.io/TobiasConstien/publication/2025-03-31-facilitators-barriers))
-
-</details>
-
-<details class="project" markdown="1">
-<summary>Research Assistant <span style="color: #999;">Trinity College Dublin</span> <span class="tag">2023</span></summary>
-
-Assisted in observational coding of various child and parent behaviors at the Infant and Child Research Laboratory (Trinity College Dublin). My direct supervisor were Dr. Jean Quigley and Dr. Elizabeth Nixon.
-
-</details>
-
-<details class="project" markdown="1">
-<summary>Research Assistant <span style="color: #999;">European Association of Palliative Care</span> <span class="tag">2023</span></summary>
-
-As part of my masters training, I worked with the European Association of Palliative Care to evaluate their research dissemination efforts witin EU-funded palliative care research projects. My direct supervisors were Prof. Suzanne Guerin (UCD), and Dr. Cathy Payne (EAPC).
-
-**Output**
-- Conference Presentation at the 2024 EAPC Conference in Barcelona (Constien et al., ([2024](https://journals.sagepub.com/doi/full/10.1177/02692163241242338)))
-
-</details>
 <br>
 
 Latest publications
@@ -179,74 +151,6 @@ Recent talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}
 </ul>
-
-Honors and awards
-======
-
-<details class="project" markdown="1">
-<summary>Presentation Award, <span style="color: #999;">Conference of Infant and Child Development</span> <span class="tag">2026</span></summary>
-
-* Best Talk at the International Conference of Infant and Child Development (Lancaster University)
-* 100£ Book Token
-
-</details>
-
-<details class="project" markdown="1">
-<summary>Postgraduate Conference Travel Award <span style="color: #999;">UCD School of Psychology</span> <span class="tag">2026</span></summary>
-
-* 500€ to attend the International Conference of Infant and Early Child Development
-* School of Psychology, University College Dublin
-
-</details>
-
-<details class="project" markdown="1">
-<summary>Best Project Award <span style="color: #999;">UNA Europa</span> <span class="tag">2026</span></summary>
-
-* 2026 Data Science and AI Challenge for Social Welfare - Hackathon
-* UNA Europa, (Spain)
-
-</details>
-
-<details class="project" markdown="1">
-<summary>Presentation Award <span style="color: #999;">Children's Research Network</span> <span class="tag">2024</span></summary>
-
-* 2024 Annual Conference of the Children's Research Network
-* Best Lightning Talk
-
-</details>
-
-<details class="project" markdown="1">
-<summary>Graduates’ Prize in Psychology <span style="color: #999;">Trinity College Dublin</span> <span class="tag">2023</span></summary>
-
-* 2024 Annual Conference of the Children's Research Network
-* Best Lightning Talk
-
-</details>
-
-<details class="project" markdown="1">
-<summary>Young Arts Therapies Research Award <span style="color: #999;">Scientific Association for the Creative Arts Therapies</span> <span class="tag">2021</span></summary>
-
-* Best Bachelor Thesis
-* Awarded at the 2021 Annual Conference of the Scientific Association for the Creative Arts Therapies
-
-</details>
-
-<details class="project" markdown="1">
-<summary>Scholarship <span style="color: #999;">German Academic Scholarship Foundation</span> <span class="tag">2020-2024</span></summary>
-
-* Merit-based scholarship from the German Academic Scholarship Foundation (Deutsche Studienstiftung)
-* 300€/month, plus tuition and fees for Higher Diploma at Trinity College Dublin and master’s degree at University College Dublin
-
-</details>
-
-<details class="project" markdown="1">
-<summary>Scholarship <span style="color: #999;">Deutschlandstipendium</span> <span class="tag">2019-2020</span></summary>
-
-* Merit-based scholarship from the Deutschlandstipendium awarded by the Nürtingen-Geislingen University.
-* 300€/month
-
-</details>
-<br>
 
 Professional Memberships
 ======
