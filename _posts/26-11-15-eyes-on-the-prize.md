@@ -1,6 +1,6 @@
 ---
 title: "Eyes on the prize: Using observations as a measure of toddlers' executive functioning"
-date: 2026-11-35
+date: 2026-11-15
 permalink: /posts/2026/10/eyes-on-the-prize/
 tags:
   - executive functions
@@ -18,7 +18,7 @@ I recently had the opportunity to contribute a brief presentation on observation
 
 ## Executive functions are not static
 
-One thing I have noticed about doing a PhD is that I find myself writing the same things over, and over again (that is what you get for dedicating three years to one single topic). One of these things is this: *"Executive functions are predictive of a range of social, health, and behavioural outcomes"* (Constien et al., 2026, p. 1). It is a nice way to illustrate the importance of early executive functions research, and backed up by a wealth of evidence (see Stucke & Doebel (2024) for a review). Consequently, this sentence appears in some shape or form not only in my own writing, but also in basically any other paper on children's early executive functions development.
+One thing I have noticed about doing a PhD is that I find myself writing the same things over, and over again (that is what you get for dedicating three years to one single topic). One of these things is this: *"Executive functions are predictive of a range of social, health, and behavioural outcomes"* (Constien et al., 2026, p. 1). It is a nice way to illustrate the importance of early executive functions research, and backed up by a wealth of evidence (see Stucke & Doebel ([2024](#references)) for a review). Consequently, this sentence appears in some shape or form not only in my own writing, but also in basically any other paper on children's early executive functions development.
 
 And while this statement is arguably true, it somewhat neglects to mention that  toddlers' executive functioning not only predicts behaviour at some later time, but already in toddlerhood. Just take these illustrations as an example:
 
@@ -34,7 +34,7 @@ And while this statement is arguably true, it somewhat neglects to mention that 
 
 ## When it rains, it pours
 
-Parent-report questionaires are already utilising this evident link between behaviours and underlying executive function skills. The first item on the Early Executive Functioning Questionnaire (Hendry & Holmboe, 2021) for instance ask parents to report the prevalence of when their child stopped *"reaching completely for something when you said no/don't touch (or similar)"*. Within the context of the EEFQ, this is seen as an indicator of toddlers' inhibitory control.
+Parent-report questionaires are already utilising this evident link between behaviours and underlying executive function skills. The first item on the Early Executive Functioning Questionnaire (Hendry & Holmboe, [2021](#references)) for instance ask parents to report the prevalence of when their child stopped *"reaching completely for something when you said no/don't touch (or similar)"*. Within the context of the EEFQ, this is seen as an indicator of toddlers' inhibitory control.
 
 Yet, in reality, toddlers' behaviours are rarely based on a single, underlying skill of executive function or other regulatory skills. Even within the simple example of a toddler responding to their caregiver's command - *"no/don't touch* - there are a number of skills required that may be connected to inhibitory control, but could also task other abilities, like emotion regulation, or pro-social behaviour, that are further removed from inhibitory control.
 
