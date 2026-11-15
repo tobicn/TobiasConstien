@@ -125,33 +125,6 @@ Developing and teaching seminars for undergraduate students in the dramatherapy 
 
 <br>
 
-Latest publications
-======
-<i><small>Find the full list [here](https://tobicn.github.io/TobiasConstien/publications/).</small></i>
-
-  <ul>
-  {% assign pubs = site.publications 
-     | where: "category", "manuscripts" 
-     | sort: "date" 
-     | reverse %}
-  {% for post in pubs limit:5 %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
-</ul>
- 
-Recent talks
-======
-<i><small>Find the full list [here](https://tobicn.github.io/TobiasConstien/talks/).</small></i>
-
- <ul>
-  {% assign talks = site.talks 
-     | sort: "date" 
-     | reverse %}
-  {% for post in talks limit:5 %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}
-</ul>
-
 Professional Memberships
 ======
 
