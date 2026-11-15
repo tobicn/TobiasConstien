@@ -51,7 +51,6 @@ In sum, **executive functioning is not static**. It is based on multiple skills,
 
 Children's moment-to-moment behaviour, however, does not only depend on what toddlers do, but importantly with *whom*. This also extends to children's executive functioning, and, by extension, their overall display of self-regulation. Specifically, Vygotsky's **Zone of Proximal Development** posits that there is a delta in between children's own self-regulatory skills, and the level of their exhibited self-regulation when engaged in interactions with a competent other, who can guide and scaffold children's behaviour (Vytosky, [1978](#references)).
 
-![Zone-of-proximal-development.jpg](/images/blog-posts/26-11-15-eefgn/26-11-15-zone-of-proximal-development.jpg)
 <div class="pswp-gallery">
   <a href="{{ '/images/blog-posts/26-11-15-eefgn/26-11-15-zone-of-proximal-development.jpg' | relative_url }}" data-pswp-width="2480" data-pswp-height="1229" target="_blank">
     <img src="{{ '/images/blog-posts/26-11-15-eefgn/26-11-15-zone-of-proximal-development.jpg' | relative_url }}" alt="Graphical illustration of Vygotsky's Zone of Proximal Development moving from what a child can do independently, to what a child can do with support, and cannot do" style="max-width:100%">
@@ -82,16 +81,18 @@ Do you have any ideas how this may be done? *[Do let me know!](mailto:tobias.con
 
 ## References
 
-> Elias, C. L., & Berk, L. E. (2002). Self-regulation in young children: Is there a role for sociodramatic play? *Early Childhood Research Quarterly*, *17*(2), 216–238. https://doi.org/10.1016/S0885-2006(02)00146-1
-> 
-> Bunge, S. A. (2024). How should we slice up the executive function pie? striving toward an Ontology of cognitive control processes. *Mind, Brain, and Education*, *18*(1), 17–27. https://doi.org/10.1111/mbe.12403
-> 
-> Hendry, A., & Holmboe, K. (2021). Development and validation of the Early Executive Functions Questionnaire: A carer-administered measure of executive functions suitable for 9- to 30-month-olds. *Infancy*, *26*(6), 932–961. https://doi.org/10.1111/infa.12431
-> 
-> McCoy, D. C. (2019). Measuring Young Children’s Executive Function and Self-Regulation in Classrooms and Other Real-World Settings. *Clinical Child and Family Psychology Review*, *22*(1), 63–74. https://doi.org/10.1007/s10567-019-00285-1
-> 
-> Slot, P. L., Mulder, H., Verhagen, J., & Leseman, P. P. M. (2017). Preschoolers' cognitive and emotional self-regulation in pretend play: Relations with executive functions and quality of play. *Infant and Child Development*, *26*(6), Article e2038. https://doi.org/10.1002/icd.2038
-> 
-> Stucke, N. J., & Doebel, S. (2024). Does preschool executive function predict concurrent and later social, health, and behavioral outcomes? A meta-analysis. *Psychological Bulletin*, *150*(10), 1178–1206. https://doi.org/10.1037/bul0000445
-> 
-> Vygotsky, L. S. (1978). *Mind in society* (M. Cole, V. John-Steiner, S. Scribner, & E. Souberman, Eds.). Harvard University Press.
+<style>
+  .references p { padding-left: 2em; text-indent: -2em; margin-bottom: .8em; }
+</style>
+
+<div class="references" markdown="1">
+
+Elias, C. L., & Berk, L. E. (2002). Self-regulation in young children: Is there a role for sociodramatic play? *Early Childhood Research Quarterly*, *17*(2), 216–238. [https://doi.org/10.1016/S0885-2006(02)00146-1](https://doi.org/10.1016/S0885-2006(02)00146-1)
+Bunge, S. A. (2024). How should we slice up the executive function pie? striving toward an Ontology of cognitive control processes. *Mind, Brain, and Education*, *18*(1), 17–27. [https://doi.org/10.1111/mbe.12403](https://doi.org/10.1111/mbe.12403)
+Hendry, A., & Holmboe, K. (2021). Development and validation of the Early Executive Functions Questionnaire: A carer-administered measure of executive functions suitable for 9- to 30-month-olds. *Infancy*, *26*(6), 932–961. [https://doi.org/10.1111/infa.12431](https://doi.org/10.1111/infa.12431)
+McCoy, D. C. (2019). Measuring Young Children’s Executive Function and Self-Regulation in Classrooms and Other Real-World Settings. *Clinical Child and Family Psychology Review*, *22*(1), 63–74. [https://doi.org/10.1007/s10567-019-00285-1](https://doi.org/10.1007/s10567-019-00285-1)
+Slot, P. L., Mulder, H., Verhagen, J., & Leseman, P. P. M. (2017). Preschoolers' cognitive and emotional self-regulation in pretend play: Relations with executive functions and quality of play. *Infant and Child Development*, *26*(6), Article e2038. [https://doi.org/10.1002/icd.2038](https://doi.org/10.1002/icd.2038)
+Stucke, N. J., & Doebel, S. (2024). Does preschool executive function predict concurrent and later social, health, and behavioral outcomes? A meta-analysis. *Psychological Bulletin*, *150*(10), 1178–1206. [https://doi.org/10.1037/bul0000445](https://doi.org/10.1037/bul0000445)
+Vygotsky, L. S. (1978). *Mind in society* (M. Cole, V. John-Steiner, S. Scribner, & E. Souberman, Eds.). Harvard University Press.
+
+</div>
