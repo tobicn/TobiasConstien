@@ -12,7 +12,7 @@ tags:
 I recently had the opportunity to contribute a brief presentation on observational approaches to executive function measurement at a virtual meeting of the *Early Executive Functions Global Network*. Rather than giving a summary of previous research, the talk was meant to stimulate a discussion for the group. Accordingly, the following is not meant as a comprehensive introduction to the topic, but rather a loose collection of key points that interest me about observational approaches to executive functions measurement.
 
 <div class="pswp-gallery">
-  <a href="{{ '/images/blog-posts/26-11-15-eefgn/26-11-15-eefgn-presentation-slide.jpg' | relative_url }}" data-pswp-width="1600" data-pswp-height="1067" target="_blank">
+  <a href="{{ '/images/blog-posts/26-11-15-eefgn/26-11-15-eefgn-presentation-slide.jpg' | relative_url }}" data-pswp-width="1920" data-pswp-height="1080" target="_blank">
     <img src="{{ '//images/blog-posts/26-11-15-eefgn/26-11-15-eefgn-presentation-slide.jpg' | relative_url }}" alt="A Powerpoint slide highlighting key points on observational approaches to executive functions measurement that are explained in this blog post" style="max-width:100%">
   </a>
 </div>
