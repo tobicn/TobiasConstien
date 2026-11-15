@@ -11,6 +11,12 @@ redirect_from:
 
 [Download my CV]({{ 'files/2026-cv-constien.pdf' | relative_url }}){: .btn .btn--primary target="_blank" rel="noopener"}
 
+Summary
+======
+
+I am a PhD Candidate at the UCD Babylab in the School of Psychology at University College Dublin (UCD). My PhD is focused on the role of pretend play in toddlers' development of executive functions. I previously completed a Master of Psychological Sciences at UCD, as well as a Higher Diploma in Psychology at Trinity College Dublin. 
+
+
 Education
 ======
 
