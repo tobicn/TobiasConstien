@@ -10,7 +10,11 @@ tags:
 
 I recently had the opportunity to contribute a brief presentation on observational approaches to executive function measurement at a virtual meeting of the *Early Executive Functions Global Network*. Rather than giving a summary of previous research, the talk was meant to stimulate a discussion for the group. Accordingly, the following is not meant as a comprehensive introduction to the topic, but rather a loose collection of key points that interest me about observational approaches to executive functions measurement.
 
-![eefgn-presentation-slide.jpeg](/Users/tobiconstien/Downloads/EEFGN-Observational-Approaches-To-EF/eefgn-presentation-slide.jpeg)
+<div class="pswp-gallery">
+  <a href="{{ '/images/blog-posts/26-11-15-eefgn/26-11-15-eefgn-presentation-slide.jpg' | relative_url }}" data-pswp-width="1600" data-pswp-height="1067" target="_blank">
+    <img src="{{ '//images/blog-posts/26-11-15-eefgn/26-11-15-eefgn-presentation-slide.jpg' | relative_url }}" alt="Description" style="max-width:100%">
+  </a>
+</div>
 
 ## Executive functions are not static
 
@@ -26,7 +30,7 @@ And while this statement is arguably true, it somewhat neglects to mention that 
 
 **In short**: Executive functions matter for toddlers' everyday, moment-to-moment behaviours. 
 
-![toddler-traffic-light-2.jpg](/Users/tobiconstien/Downloads/toddler-traffic-light-2.jpg)
+![toddler-traffic-light-2.jpg](/images/blog-posts/26-11-15-eefgn/26-11-15-traffic-light.jpg)
 
 ## When it rains, it pours
 
@@ -42,15 +46,11 @@ In sum, **executive functioning is not static**. It is based on multiple skills,
 
 Children's moment-to-moment behaviour, however, does not only depend on what toddlers do, but importantly with *whom*. This also extends to children's executive functioning, and, by extension, their overall display of self-regulation. Specifically, Vygotsky's **Zone of Proximal Development** posits that there is a delta in between children's own self-regulatory skills, and the level of their exhibited self-regulation when engaged in interactions with a competent other, who can guide and scaffold children's behaviour (Vytosky, [1978](#references)).
 
-![Zone-of-proximal-development.jpg](/Users/tobiconstien/Downloads/Zone-of-proximal-development.jpg)
-
-
+![Zone-of-proximal-development.jpg](/images/blog-posts/26-11-15-eefgn/26-11-15-zone-of-proximal-development.jpg)
 
 This delta between what can be achieved alone vs. with a competent other may be particularly important in early development, in which infants and toddlers are somewhat dependent on their parents and caregivers in regard to their own regulation of behaviour and emotions. For example, it is parent's care and attention that can soothe a toddler after getting upset, or, conversely, it is parent's lack of attention that signals a toddler that this event, like falling down, is not worth crying over. Sticking with the example from the EEFQ, it may be also be the specific tone within parent's command of *do/don't touch* that signals urgency and prompt a toddler to halt their movement.
 
-The Zone of Proximal Development illustrates that exhibited self-regulation is ultimately context-dependent, meaning it can fluctuate across enviornments and social interactions. 
-
-Observational approaches to the measurement of executive functions are based on this premise, which I summarised under the metaphor of *"when it rains, it pours"*.
+The Zone of Proximal Development illustrates that exhibited self-regulation is ultimately context-dependent, meaning it can fluctuate across enviornments and social interactions. Observational approaches to the measurement of executive functions are based on this premise, which I summarised under the metaphor of *"when it rains, it pours"*.
 
 ## Observational approaches
 
