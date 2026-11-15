@@ -2,6 +2,7 @@
 title: "Let's not cheat with data visualisations"
 date: 2026-07-16
 permalink: /posts/2026/07/data-visualisations-cheat/
+slideshow: true
 tags:
   - data visualisation
   - research dissemination
@@ -17,7 +18,11 @@ I came across a recent example of data visualisation cheats at a recent visit to
 
 The graphic that is presented to visitors after entry in front of the elevator shows graphical depictions of TV towers across the world seemingly _at scale_. We see a TV tower from Munich (260m), Kairo (217m), or Tokyo (634m). Graphically, we are led to believe that the Stuttgart TV tower, after all the first of its kind, outranks them all in size. But look just a little bit closer, and you'll notice that something is up. Stuttgart, with its 217m, is (as it turns out with a bit of math), only a bit over a third of the size of Tokyo's Sky Tree. *Sure doesn't seem that way from the graph!*
 
-![TV Towers across the world at (corrected) scale](https://github.com/tobicn/TobiasConstien/blob/master/images/StuttgartTV-Tower-Scaled.png?raw=true)
+<div class="pswp-gallery">
+  <a href="{{ '/images/StuttgartTV-Tower-Scaled.png' | relative_url }}" data-pswp-width="2480" data-pswp-height="1229" target="_blank">
+    <img src="{{ '/images/StuttgartTV-Tower-Scaled.png' | relative_url }}" alt="TV Towers across the world at (corrected) scale" style="max-width:100%">
+  </a>
+</div>
 
 I took the time to redraw this graph by size. This is what it should actually look like. @SWR, if you want to update your graph (and stop lying with data visualisations), you can find it in my [GitHub](https://github.com/tobicn/TobiasConstien/blob/master/images/StuttgartTV-Tower-Corrected.png?raw=true).
 
