@@ -11,8 +11,8 @@ bibtexurl: 'https://tobicn.github.io/TobiasConstien/files/2025-03-31-facilitator
 citation: 'Habaal, Y., & <b>Constien, T.</b> (2024). Facilitators and barriers of dramatherapy for individuals affected by poverty: An instrumental case study. <i>Dramatherapy</i>, 45(Diasporas in Dramatherapy), 257–269. https://doi.org/10.1386/dj_00015_1 
 '
 ---
-[Download PDF]({{ 'files/2025-03-31-facilitator-barrier.pdf' | relative_url }}){: .btn .btn--primary target="_blank" rel="noopener"}
-[Download Citation]({{ 'files/2025-03-31-facilitator-barrier.ris' | relative_url }}){: .btn .btn--primary target="_blank" rel="noopener"}
+[Download PDF]({{ 'files/2025-03-31-facilitators-barriers.pdf' | relative_url }}){: .btn .btn--primary target="_blank" rel="noopener"}
+[Download Citation]({{ 'files/2025-03-31-facilitators-barriers.ris' | relative_url }}){: .btn .btn--primary target="_blank" rel="noopener"}
 
 # Abstract
 
