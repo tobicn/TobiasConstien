@@ -17,7 +17,7 @@
 @media (prefers-reduced-motion: reduce) { .open-science .btn i { transition: none; animation: none !important; } }
 </style>
 <div class="open-science">
-{%- if include.paper -%}<a href="{{ include.paper }}" class="btn btn--success btn--small" target="_blank" rel="noopener"><i class="fas fa-lock-open"></i> Open access</a>{%- endif -%}
+{%- if include.paper -%}<a href="{{ include.paper }}" class="btn btn--success btn--small" target="_blank" rel="noopener"><i class="fas fa-lock icon-closed"></i><i class="fas fa-lock-open icon-open"></i> Open access</a>{%- endif -%}
 {%- if include.preprint -%}<a href="{{ include.preprint }}" class="btn btn--success btn--small" target="_blank" rel="noopener"><i class="fas fa-file-alt"></i> Preprint</a>{%- endif -%}
 {%- if include.prereg -%}<a href="{{ include.prereg }}" class="btn btn--success btn--small" target="_blank" rel="noopener"><i class="fas fa-clipboard-check"></i> Preregistration</a>{%- endif -%}
 {%- if include.data -%}<a href="{{ include.data }}" class="btn btn--success btn--small" target="_blank" rel="noopener"><i class="fas fa-database"></i> Data</a>{%- endif -%}
