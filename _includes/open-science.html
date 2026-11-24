@@ -1,6 +1,20 @@
 <style>
 .open-science { margin: 1em 0; }
 .open-science .btn { margin: 0 .4em .4em 0; }
+.open-science .btn i { display: inline-block; transition: transform .25s ease; }
+.open-science .icon-open { display: none; }
+.open-science .btn:hover .icon-closed { display: none; }
+.open-science .btn:hover .icon-open { display: inline-block; animation: os-pop .3s ease; }
+.open-science .btn:hover .fa-file-alt { transform: translateY(-3px); }
+.open-science .btn:hover .fa-clipboard-check { transform: scale(1.3); }
+.open-science .btn:hover .fa-code { transform: scaleX(1.3); }
+.open-science .btn:hover .fa-database { animation: os-bounce .5s ease; }
+.open-science .btn:hover .fa-toolbox { animation: os-wiggle .5s ease; }
+.open-science .btn:hover .fa-folder-open { transform: scale(1.25); }
+@keyframes os-pop { 0% { transform: scale(.6); } 60% { transform: scale(1.3); } 100% { transform: scale(1); } }
+@keyframes os-bounce { 0%,100% { transform: translateY(0); } 40% { transform: translateY(-4px); } 70% { transform: translateY(1px); } }
+@keyframes os-wiggle { 0%,100% { transform: rotate(0); } 25% { transform: rotate(-15deg); } 75% { transform: rotate(15deg); } }
+@media (prefers-reduced-motion: reduce) { .open-science .btn i { transition: none; animation: none !important; } }
 </style>
 <div class="open-science">
 {%- if include.paper -%}<a href="{{ include.paper }}" class="btn btn--success btn--small" target="_blank" rel="noopener"><i class="fas fa-lock-open"></i> Open access</a>{%- endif -%}
