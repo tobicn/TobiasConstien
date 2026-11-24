@@ -11,12 +11,12 @@ bibtexurl: 'https://tobicn.github.io/TobiasConstien/files/2024-05-06-client-expe
 citation: '<b>Constien, T.</b>, Khanna, A., & Wiberg, A. (2025). Client experiences of drama therapy: A systematic review and qualitative meta-analysis. <i>Qualitative Psychology</i>, 12(3), 311–337. https://doi.org/10.1037/qup0000300'
 ---
 
-[Download PDF]({{ 'files/2024-05-06-client-experiences-paper.pdf' | relative_url }}){: .btn .btn--primary target="_blank" rel="noopener"}
-[Download Citation]({{ 'files/2024-05-06-client-experiences-paper.ris' | relative_url }}){: .btn .btn--primary target="_blank" rel="noopener"}
+[Download PDF]({{ '/files/2024-05-06-client-experiences-paper.pdf' | relative_url }}){: .btn .btn--primary target="_blank" rel="noopener"}
+[Download Citation]({{ '/files/2024-05-06-client-experiences-paper.ris' | relative_url }}){: .btn .btn--primary target="_blank" rel="noopener"}
 
 # Open Science
 
-{% include open-science.html prereg="https://osf.io/w7j2n/" osf="https://osf.io/gqphk/" data="https://osf.io/gqphk/files/osfstorage" paper="files/2024-05-06-client-experiences-paper.pdf" %}
+{% include open-science.html prereg="https://osf.io/w7j2n/" osf="https://osf.io/gqphk/" data="https://osf.io/gqphk/files/osfstorage" paper="/files/2024-05-06-client-experiences-paper.pdf" %}
 
 # Abstract
 
