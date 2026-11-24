@@ -16,8 +16,6 @@ citation: '<b>Constien, T.</b>, Keiller, E., Bourne, J., Willemsen, M., Bruun, E
 
 # Open Science
 
-{%- if include.paper -%}<a href="{{ include.paper }}" class="btn btn--success btn--small" target="_blank" rel="noopener"><i class="fas fa-lock icon-closed"></i><i class="fas fa-lock-open icon-open"></i> Open access</a>{%- endif -%}
-
 {% include open-science.html prereg="https://osf.io/869un/" osf="https://osf.io/p4tzc/" paper="https://www.sciencedirect.com/science/article/pii/S0197455626001115?via%3Dihub" %}
 
 # Abstract
