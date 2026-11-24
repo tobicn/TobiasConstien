@@ -16,7 +16,7 @@ citation: '<b>Constien, T.</b>, Khanna, A., & Wiberg, A. (2025). Client experien
 
 # Open Science
 
-{% include open-science.html prereg="https://osf.io/w7j2n/" osf="https://osf.io/gqphk/" data="https://osf.io/gqphk/files/osfstorage" paper="files/2024-05-06-client-experienes-paper.pdf" %}
+{% include open-science.html prereg="https://osf.io/w7j2n/" osf="https://osf.io/gqphk/" data="https://osf.io/gqphk/files/osfstorage" %}
 
 # Abstract
 
